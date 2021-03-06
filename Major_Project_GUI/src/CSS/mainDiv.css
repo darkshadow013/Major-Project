@@ -1,0 +1,121 @@
+.mainClass {
+        width: 800px;
+	background-color: white;
+	position: absolute;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+
+.heading {
+	width: 800px;
+	height: 80px;
+	position: relative;
+	background-color: whitesmoke;
+}
+.floatDiv {
+	padding: 20px;
+	width: 240px;
+}
+.headingText {
+	position: absolute;
+	margin: 0;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	font-size: xx-large;
+	font-weight: bold;
+	font-style: oblique;
+}
+
+.flex-container {
+	display: flex;
+	height: 500px;
+	margin-top: 25px;
+	border-style: groove;
+	border-radius: 15px;
+}
+
+.keywordsDiv1 {
+
+	width: 30%;
+	border-style: groove;
+	border-top: none;
+	border-left: none;
+	border-bottom: none;
+	display: flex;
+	flex-direction: column;
+}
+
+.filesDiv1 {
+	width: 70%;
+	padding: 15px;
+	overflow: auto;
+}
+
+.keywordsDiv2 {
+	padding: 10px;
+	border-style: groove;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+}
+
+.keywordsDiv3 {
+	padding: 15px;
+	padding-right: 0px;
+	height: 420px;
+	overflow: auto;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.keywordsSearchDiv {
+	height: 40px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#searchBox {
+	margin: 0;
+	height: 30px;
+}
+
+.selectedKeywordsDiv {
+	overflow: auto;
+	height: 120px;
+}
+
+
+.chip {
+	display: inline-block;
+	padding: 0px 10px;
+	height: 30px;
+	font-size: 15px;
+	line-height: 30px;
+	border-radius: 15px;
+	background-color: #f1f1f1;
+	margin: 2px 2px;
+}
+
+.closebtn {
+	padding-left: 10px;
+	color: #888;
+	font-weight: bold;
+	float: right;
+	font-size: 20px;
+	cursor: pointer;
+}
+
+.closebtn:hover {
+	color: #000;
+}
+
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
