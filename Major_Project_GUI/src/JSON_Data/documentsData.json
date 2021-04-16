@@ -1,0 +1,2502 @@
+{
+    "Self-Organization of Associative Database and Its Applications": [
+        "https://proceedings.neurips.cc/paper/1987/file/c4ca4238a0b923820dcc509a6f75849b-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1987/file/c4ca4238a0b923820dcc509a6f75849b-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1987/file/c4ca4238a0b923820dcc509a6f75849b-Paper.pdf"
+    ],
+    "A Mean Field Theory of Layer IV of Visual Cortex and Its Application to Artificial Neural Networks": [
+        "https://proceedings.neurips.cc/paper/1987/file/d3d9446802a44259755d38e6d163e820-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1987/file/d3d9446802a44259755d38e6d163e820-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1987/file/d3d9446802a44259755d38e6d163e820-Paper.pdf"
+    ],
+    "Storing Covariance by the Associative Long-Term Potentiation and Depression of Synaptic Strengths in the Hippocampus": [
+        "https://proceedings.neurips.cc/paper/1988/file/f899139df5e1059396431415e770c6dd-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/f899139df5e1059396431415e770c6dd-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/f899139df5e1059396431415e770c6dd-Paper.pdf"
+    ],
+    "Bayesian Query Construction for Neural Network Models": [
+        "https://proceedings.neurips.cc/paper/1994/file/a9b7ba70783b617e9998dc4dd82eb3c5-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1994/file/a9b7ba70783b617e9998dc4dd82eb3c5-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1994/file/a9b7ba70783b617e9998dc4dd82eb3c5-Paper.pdf"
+    ],
+    "Neural Network Ensembles, Cross Validation, and Active Learning": [
+        "https://proceedings.neurips.cc/paper/1994/file/b8c37e33defde51cf91e1e03e51657da-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1994/file/b8c37e33defde51cf91e1e03e51657da-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1994/file/b8c37e33defde51cf91e1e03e51657da-Paper.pdf"
+    ],
+    "Using a neural net to instantiate a deformable model": [
+        "https://proceedings.neurips.cc/paper/1994/file/fba9d88164f3e2d9109ee770223212a0-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1994/file/fba9d88164f3e2d9109ee770223212a0-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1994/file/fba9d88164f3e2d9109ee770223212a0-Paper.pdf"
+    ],
+    "Plasticity-Mediated Competitive Learning": [
+        "https://proceedings.neurips.cc/paper/1994/file/aa68c75c4a77c87f97fb686b2f068676-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1994/file/aa68c75c4a77c87f97fb686b2f068676-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1994/file/aa68c75c4a77c87f97fb686b2f068676-Paper.pdf"
+    ],
+    "ICEG Morphology Classification using an Analogue VLSI Neural Network": [
+        "https://proceedings.neurips.cc/paper/1994/file/fed33392d3a48aa149a87a38b875ba4a-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1994/file/fed33392d3a48aa149a87a38b875ba4a-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1994/file/fed33392d3a48aa149a87a38b875ba4a-Paper.pdf"
+    ],
+    "Real-Time Control of a Tokamak Plasma Using Neural Networks": [
+        "https://proceedings.neurips.cc/paper/1994/file/2387337ba1e0b0249ba90f55b2ba2521-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1994/file/2387337ba1e0b0249ba90f55b2ba2521-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1994/file/2387337ba1e0b0249ba90f55b2ba2521-Paper.pdf"
+    ],
+    "Pulsestream Synapses with Non-Volatile Analogue Amorphous-Silicon Memories": [
+        "https://proceedings.neurips.cc/paper/1994/file/9246444d94f081e3549803b928260f56-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1994/file/9246444d94f081e3549803b928260f56-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1994/file/9246444d94f081e3549803b928260f56-Paper.pdf"
+    ],
+    "Learning to Play the Game of Chess": [
+        "https://proceedings.neurips.cc/paper/1994/file/d7322ed717dedf1eb4e6e52a37ea7bcd-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1994/file/d7322ed717dedf1eb4e6e52a37ea7bcd-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1994/file/d7322ed717dedf1eb4e6e52a37ea7bcd-Paper.pdf"
+    ],
+    "Multidimensional Scaling and Data Clustering": [
+        "https://proceedings.neurips.cc/paper/1994/file/1587965fb4d4b5afe8428a4a024feb0d-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1994/file/1587965fb4d4b5afe8428a4a024feb0d-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1994/file/1587965fb4d4b5afe8428a4a024feb0d-Paper.pdf"
+    ],
+    "An experimental comparison of recurrent neural networks": [
+        "https://proceedings.neurips.cc/paper/1994/file/31b3b31a1c2f8a370206f111127c0dbd-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1994/file/31b3b31a1c2f8a370206f111127c0dbd-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1994/file/31b3b31a1c2f8a370206f111127c0dbd-Paper.pdf"
+    ],
+    "Training Multilayer Perceptrons with the Extended Kalman Algorithm": [
+        "https://proceedings.neurips.cc/paper/1988/file/38b3eff8baf56627478ec76a704e9b52-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/38b3eff8baf56627478ec76a704e9b52-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/38b3eff8baf56627478ec76a704e9b52-Paper.pdf"
+    ],
+    "Interference in Learning Internal Models of Inverse Dynamics in Humans": [
+        "https://proceedings.neurips.cc/paper/1994/file/1e48c4420b7073bc11916c6c1de226bb-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1994/file/1e48c4420b7073bc11916c6c1de226bb-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1994/file/1e48c4420b7073bc11916c6c1de226bb-Paper.pdf"
+    ],
+    "Active Learning with Statistical Models": [
+        "https://proceedings.neurips.cc/paper/1994/file/7f975a56c761db6506eca0b37ce6ec87-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1994/file/7f975a56c761db6506eca0b37ce6ec87-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1994/file/7f975a56c761db6506eca0b37ce6ec87-Paper.pdf"
+    ],
+    "A Rapid Graph-based Method for Arbitrary Transformation-Invariant Pattern Classification": [
+        "https://proceedings.neurips.cc/paper/1994/file/f33ba15effa5c10e873bf3842afb46a6-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1994/file/f33ba15effa5c10e873bf3842afb46a6-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1994/file/f33ba15effa5c10e873bf3842afb46a6-Paper.pdf"
+    ],
+    "Ocular Dominance and Patterned Lateral Connections in a Self-Organizing Model of the Primary Visual Cortex": [
+        "https://proceedings.neurips.cc/paper/1994/file/6b180037abbebea991d8b1232f8a8ca9-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1994/file/6b180037abbebea991d8b1232f8a8ca9-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1994/file/6b180037abbebea991d8b1232f8a8ca9-Paper.pdf"
+    ],
+    "Associative Decorrelation Dynamics: A Theory of Self-Organization and Optimization in Feedback Networks": [
+        "https://proceedings.neurips.cc/paper/1994/file/766d856ef1a6b02f93d894415e6bfa0e-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1994/file/766d856ef1a6b02f93d894415e6bfa0e-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1994/file/766d856ef1a6b02f93d894415e6bfa0e-Paper.pdf"
+    ],
+    "A Connectionist Technique for Accelerated Textual Input: Letting a Network Do the Typing": [
+        "https://proceedings.neurips.cc/paper/1994/file/298923c8190045e91288b430794814c4-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1994/file/298923c8190045e91288b430794814c4-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1994/file/298923c8190045e91288b430794814c4-Paper.pdf"
+    ],
+    "Connectionist Speaker Normalization with Generalized Resource Allocating Networks": [
+        "https://proceedings.neurips.cc/paper/1994/file/08fe2621d8e716b02ec0da35256a998d-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1994/file/08fe2621d8e716b02ec0da35256a998d-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1994/file/08fe2621d8e716b02ec0da35256a998d-Paper.pdf"
+    ],
+    "A Critical Comparison of Models for Orientation and Ocular Dominance Columns in the Striate Cortex": [
+        "https://proceedings.neurips.cc/paper/1994/file/5d616dd38211ebb5d6ec52986674b6e4-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1994/file/5d616dd38211ebb5d6ec52986674b6e4-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1994/file/5d616dd38211ebb5d6ec52986674b6e4-Paper.pdf"
+    ],
+    "Generalization in Reinforcement Learning: Safely Approximating the Value Function": [
+        "https://proceedings.neurips.cc/paper/1994/file/ef50c335cca9f340bde656363ebd02fd-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1994/file/ef50c335cca9f340bde656363ebd02fd-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1994/file/ef50c335cca9f340bde656363ebd02fd-Paper.pdf"
+    ],
+    "A Mixture Model System for Medical and Machine Diagnosis": [
+        "https://proceedings.neurips.cc/paper/1994/file/03e0704b5690a2dee1861dc3ad3316c9-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1994/file/03e0704b5690a2dee1861dc3ad3316c9-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1994/file/03e0704b5690a2dee1861dc3ad3316c9-Paper.pdf"
+    ],
+    "An Application of the Principle of Maximum Information Preservation to Linear Systems": [
+        "https://proceedings.neurips.cc/paper/1988/file/ec8956637a99787bd197eacd77acce5e-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/ec8956637a99787bd197eacd77acce5e-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/ec8956637a99787bd197eacd77acce5e-Paper.pdf"
+    ],
+    "A Computational Model of Prefrontal Cortex Function": [
+        "https://proceedings.neurips.cc/paper/1994/file/65cc2c8205a05d7379fa3a6386f710e1-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1994/file/65cc2c8205a05d7379fa3a6386f710e1-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1994/file/65cc2c8205a05d7379fa3a6386f710e1-Paper.pdf"
+    ],
+    "The Gamma MLP for Speech Phoneme Recognition": [
+        "https://proceedings.neurips.cc/paper/1995/file/0768281a05da9f27df178b5c39a51263-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/0768281a05da9f27df178b5c39a51263-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/0768281a05da9f27df178b5c39a51263-Paper.pdf"
+    ],
+    "A Multiscale Attentional Framework for Relaxation Neural Networks": [
+        "https://proceedings.neurips.cc/paper/1995/file/93d65641ff3f1586614cf2c1ad240b6c-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/93d65641ff3f1586614cf2c1ad240b6c-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/93d65641ff3f1586614cf2c1ad240b6c-Paper.pdf"
+    ],
+    "Correlated Neuronal Response: Time Scales and Mechanisms": [
+        "https://proceedings.neurips.cc/paper/1995/file/ce5140df15d046a66883807d18d0264b-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/ce5140df15d046a66883807d18d0264b-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/ce5140df15d046a66883807d18d0264b-Paper.pdf"
+    ],
+    "Onset-based Sound Segmentation": [
+        "https://proceedings.neurips.cc/paper/1995/file/021bbc7ee20b71134d53e20206bd6feb-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/021bbc7ee20b71134d53e20206bd6feb-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/021bbc7ee20b71134d53e20206bd6feb-Paper.pdf"
+    ],
+    "A model of transparent motion and non-transparent motion aftereffects": [
+        "https://proceedings.neurips.cc/paper/1995/file/82b8a3434904411a9fdc43ca87cee70c-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/82b8a3434904411a9fdc43ca87cee70c-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/82b8a3434904411a9fdc43ca87cee70c-Paper.pdf"
+    ],
+    "A Model of Auditory Streaming": [
+        "https://proceedings.neurips.cc/paper/1995/file/24146db4eb48c718b84cae0a0799dcfc-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/24146db4eb48c718b84cae0a0799dcfc-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/24146db4eb48c718b84cae0a0799dcfc-Paper.pdf"
+    ],
+    "REMAP: Recursive Estimation and Maximization of A Posteriori Probabilities - Application to Transition-Based Connectionist Speech Recognition": [
+        "https://proceedings.neurips.cc/paper/1995/file/883e881bb4d22a7add958f2d6b052c9f-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/883e881bb4d22a7add958f2d6b052c9f-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/883e881bb4d22a7add958f2d6b052c9f-Paper.pdf"
+    ],
+    "Exponentially many local minima for single neurons": [
+        "https://proceedings.neurips.cc/paper/1995/file/3806734b256c27e41ec2c6bffa26d9e7-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/3806734b256c27e41ec2c6bffa26d9e7-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/3806734b256c27e41ec2c6bffa26d9e7-Paper.pdf"
+    ],
+    "A Practical Monte Carlo Implementation of Bayesian Learning": [
+        "https://proceedings.neurips.cc/paper/1995/file/84d2004bf28a2095230e8e14993d398d-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/84d2004bf28a2095230e8e14993d398d-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/84d2004bf28a2095230e8e14993d398d-Paper.pdf"
+    ],
+    "An Adaptive Network That Learns Sequences of Transitions": [
+        "https://proceedings.neurips.cc/paper/1988/file/6974ce5ac660610b44d9b9fed0ff9548-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/6974ce5ac660610b44d9b9fed0ff9548-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/6974ce5ac660610b44d9b9fed0ff9548-Paper.pdf"
+    ],
+    "Neuron-MOS Temporal Winner Search Hardware for Fully-Parallel Data Processing": [
+        "https://proceedings.neurips.cc/paper/1995/file/e515df0d202ae52fcebb14295743063b-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/e515df0d202ae52fcebb14295743063b-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/e515df0d202ae52fcebb14295743063b-Paper.pdf"
+    ],
+    "Dynamics of Attention as Near Saddle-Node Bifurcation Behavior": [
+        "https://proceedings.neurips.cc/paper/1995/file/afdec7005cc9f14302cd0474fd0f3c96-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/afdec7005cc9f14302cd0474fd0f3c96-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/afdec7005cc9f14302cd0474fd0f3c96-Paper.pdf"
+    ],
+    "VLSI Model of Primate Visual Smooth Pursuit": [
+        "https://proceedings.neurips.cc/paper/1995/file/995e1fda4a2b5f55ef0df50868bf2a8f-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/995e1fda4a2b5f55ef0df50868bf2a8f-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/995e1fda4a2b5f55ef0df50868bf2a8f-Paper.pdf"
+    ],
+    "Gradient and Hamiltonian Dynamics Applied to Learning in Neural Networks": [
+        "https://proceedings.neurips.cc/paper/1995/file/e17184bcb70dcf3942c54e0b537ffc6d-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/e17184bcb70dcf3942c54e0b537ffc6d-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/e17184bcb70dcf3942c54e0b537ffc6d-Paper.pdf"
+    ],
+    "Is Learning The n-th Thing Any Easier Than Learning The First?": [
+        "https://proceedings.neurips.cc/paper/1995/file/bdb106a0560c4e46ccc488ef010af787-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/bdb106a0560c4e46ccc488ef010af787-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/bdb106a0560c4e46ccc488ef010af787-Paper.pdf"
+    ],
+    "A Dynamical Model of Context Dependencies for the Vestibulo-Ocular Reflex": [
+        "https://proceedings.neurips.cc/paper/1995/file/a34bacf839b923770b2c360eefa26748-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/a34bacf839b923770b2c360eefa26748-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/a34bacf839b923770b2c360eefa26748-Paper.pdf"
+    ],
+    "Improved Gaussian Mixture Density Estimates Using Bayesian Penalty Terms and Network Averaging": [
+        "https://proceedings.neurips.cc/paper/1995/file/83fa5a432ae55c253d0e60dbfa716723-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/83fa5a432ae55c253d0e60dbfa716723-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/83fa5a432ae55c253d0e60dbfa716723-Paper.pdf"
+    ],
+    "Quadratic-Type Lyapunov Functions for Competitive Neural Networks with Different Time-Scales": [
+        "https://proceedings.neurips.cc/paper/1995/file/eddb904a6db773755d2857aacadb1cb0-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/eddb904a6db773755d2857aacadb1cb0-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/eddb904a6db773755d2857aacadb1cb0-Paper.pdf"
+    ],
+    "Stable LInear Approximations to Dynamic Programming for Stochastic Control Problems with Local Transitions": [
+        "https://proceedings.neurips.cc/paper/1995/file/6d70cb65d15211726dcce4c0e971e21c-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/6d70cb65d15211726dcce4c0e971e21c-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/6d70cb65d15211726dcce4c0e971e21c-Paper.pdf"
+    ],
+    "Context-Dependent Classes in a Hybrid Recurrent Network-HMM Speech Recognition System": [
+        "https://proceedings.neurips.cc/paper/1995/file/27ed0fb950b856b06e1273989422e7d3-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/27ed0fb950b856b06e1273989422e7d3-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/27ed0fb950b856b06e1273989422e7d3-Paper.pdf"
+    ],
+    "Digital Realisation of Self-Organising Maps": [
+        "https://proceedings.neurips.cc/paper/1988/file/c9e1074f5b3f9fc8ea15d152add07294-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/c9e1074f5b3f9fc8ea15d152add07294-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/c9e1074f5b3f9fc8ea15d152add07294-Paper.pdf"
+    ],
+    "Empirical Entropy Manipulation for Real-World Problems": [
+        "https://proceedings.neurips.cc/paper/1995/file/537d9b6c927223c796cac288cced29df-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/537d9b6c927223c796cac288cced29df-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/537d9b6c927223c796cac288cced29df-Paper.pdf"
+    ],
+    "The Geometry of Eye Rotations and Listing's Law": [
+        "https://proceedings.neurips.cc/paper/1995/file/d736bb10d83a904aefc1d6ce93dc54b8-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/d736bb10d83a904aefc1d6ce93dc54b8-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/d736bb10d83a904aefc1d6ce93dc54b8-Paper.pdf"
+    ],
+    "Reinforcement Learning by Probability Matching": [
+        "https://proceedings.neurips.cc/paper/1995/file/9ac403da7947a183884c18a67d3aa8de-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/9ac403da7947a183884c18a67d3aa8de-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/9ac403da7947a183884c18a67d3aa8de-Paper.pdf"
+    ],
+    "Neural Control for Nonlinear Dynamic Systems": [
+        "https://proceedings.neurips.cc/paper/1995/file/b9141aff1412dc76340b3822d9ea6c72-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/b9141aff1412dc76340b3822d9ea6c72-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/b9141aff1412dc76340b3822d9ea6c72-Paper.pdf"
+    ],
+    "Learning with ensembles: How overfitting can be useful": [
+        "https://proceedings.neurips.cc/paper/1995/file/1019c8091693ef5c5f55970346633f92-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/1019c8091693ef5c5f55970346633f92-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/1019c8091693ef5c5f55970346633f92-Paper.pdf"
+    ],
+    "SEEMORE: A View-Based Approach to 3-D Object Recognition Using Multiple Visual Cues": [
+        "https://proceedings.neurips.cc/paper/1995/file/a0e2a2c563d57df27213ede1ac4ac780-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/a0e2a2c563d57df27213ede1ac4ac780-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/a0e2a2c563d57df27213ede1ac4ac780-Paper.pdf"
+    ],
+    "Analog VLSI Processor Implementing the Continuous Wavelet Transform": [
+        "https://proceedings.neurips.cc/paper/1995/file/1579779b98ce9edb98dd85606f2c119d-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/1579779b98ce9edb98dd85606f2c119d-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/1579779b98ce9edb98dd85606f2c119d-Paper.pdf"
+    ],
+    "Selective Attention for Handwritten Digit Recognition": [
+        "https://proceedings.neurips.cc/paper/1995/file/20b5e1cf8694af7a3c1ba4a87f073021-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/20b5e1cf8694af7a3c1ba4a87f073021-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/20b5e1cf8694af7a3c1ba4a87f073021-Paper.pdf"
+    ],
+    "Gaussian Processes for Regression": [
+        "https://proceedings.neurips.cc/paper/1995/file/7cce53cf90577442771720a370c3c723-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/7cce53cf90577442771720a370c3c723-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/7cce53cf90577442771720a370c3c723-Paper.pdf"
+    ],
+    "Modern Analytic Techniques to Solve the Dynamics of Recurrent Neural Networks": [
+        "https://proceedings.neurips.cc/paper/1995/file/58c54802a9fb9526cd0923353a34a7ae-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/58c54802a9fb9526cd0923353a34a7ae-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/58c54802a9fb9526cd0923353a34a7ae-Paper.pdf"
+    ],
+    "Backpropagation and Its Application to Handwritten Signature Verification": [
+        "https://proceedings.neurips.cc/paper/1988/file/65b9eea6e1cc6bb9f0cd2a47751a186f-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/65b9eea6e1cc6bb9f0cd2a47751a186f-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/65b9eea6e1cc6bb9f0cd2a47751a186f-Paper.pdf"
+    ],
+    "Family Discovery": [
+        "https://proceedings.neurips.cc/paper/1995/file/5055cbf43fac3f7e2336b27310f0b9ef-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/5055cbf43fac3f7e2336b27310f0b9ef-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/5055cbf43fac3f7e2336b27310f0b9ef-Paper.pdf"
+    ],
+    "Neural Networks with Quadratic VC Dimension": [
+        "https://proceedings.neurips.cc/paper/1995/file/456ac9b0d15a8b7f1e71073221059886-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/456ac9b0d15a8b7f1e71073221059886-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/456ac9b0d15a8b7f1e71073221059886-Paper.pdf"
+    ],
+    "Learning the Structure of Similarity": [
+        "https://proceedings.neurips.cc/paper/1995/file/f4dd765c12f2ef67f98f3558c282a9cd-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/f4dd765c12f2ef67f98f3558c282a9cd-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/f4dd765c12f2ef67f98f3558c282a9cd-Paper.pdf"
+    ],
+    "Reorganisation of Somatosensory Cortex after Tactile Training": [
+        "https://proceedings.neurips.cc/paper/1995/file/7fec306d1e665bc9c748b5d2b99a6e97-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/7fec306d1e665bc9c748b5d2b99a6e97-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/7fec306d1e665bc9c748b5d2b99a6e97-Paper.pdf"
+    ],
+    "Implementation Issues in the Fourier Transform Algorithm": [
+        "https://proceedings.neurips.cc/paper/1995/file/db576a7d2453575f29eab4bac787b919-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/db576a7d2453575f29eab4bac787b919-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/db576a7d2453575f29eab4bac787b919-Paper.pdf"
+    ],
+    "Adaptive Retina with Center-Surround Receptive Field": [
+        "https://proceedings.neurips.cc/paper/1995/file/53c04118df112c13a8c34b38343b9c10-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/53c04118df112c13a8c34b38343b9c10-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/53c04118df112c13a8c34b38343b9c10-Paper.pdf"
+    ],
+    "Forward-backward retraining of recurrent neural networks": [
+        "https://proceedings.neurips.cc/paper/1995/file/4ca82782c5372a547c104929f03fe7a9-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/4ca82782c5372a547c104929f03fe7a9-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/4ca82782c5372a547c104929f03fe7a9-Paper.pdf"
+    ],
+    "When is an Integrate-and-fire Neuron like a Poisson Neuron?": [
+        "https://proceedings.neurips.cc/paper/1995/file/d8700cbd38cc9f30cecb34f0c195b137-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/d8700cbd38cc9f30cecb34f0c195b137-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/d8700cbd38cc9f30cecb34f0c195b137-Paper.pdf"
+    ],
+    "From Isolation to Cooperation: An Alternative View of a System of Experts": [
+        "https://proceedings.neurips.cc/paper/1995/file/b4d168b48157c623fbd095b4a565b5bb-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/b4d168b48157c623fbd095b4a565b5bb-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/b4d168b48157c623fbd095b4a565b5bb-Paper.pdf"
+    ],
+    "Boosting Decision Trees": [
+        "https://proceedings.neurips.cc/paper/1995/file/4a08142c38dbe374195d41c04562d9f8-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/4a08142c38dbe374195d41c04562d9f8-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/4a08142c38dbe374195d41c04562d9f8-Paper.pdf"
+    ],
+    "Constraints on Adaptive Networks for Modeling Human Generalization": [
+        "https://proceedings.neurips.cc/paper/1988/file/f0935e4cd5920aa6c7c996a5ee53a70f-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/f0935e4cd5920aa6c7c996a5ee53a70f-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/f0935e4cd5920aa6c7c996a5ee53a70f-Paper.pdf"
+    ],
+    "Statistical Theory of Overtraining - Is Cross-Validation Asymptotically Effective?": [
+        "https://proceedings.neurips.cc/paper/1995/file/299a23a2291e2126b91d54f3601ec162-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/299a23a2291e2126b91d54f3601ec162-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/299a23a2291e2126b91d54f3601ec162-Paper.pdf"
+    ],
+    "Stable Dynamic Parameter Adaption": [
+        "https://proceedings.neurips.cc/paper/1995/file/a89cf525e1d9f04d16ce31165e139a4b-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/a89cf525e1d9f04d16ce31165e139a4b-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/a89cf525e1d9f04d16ce31165e139a4b-Paper.pdf"
+    ],
+    "Universal Approximation and Learning of Trajectories Using Oscillators": [
+        "https://proceedings.neurips.cc/paper/1995/file/cd89fef7ffdd490db800357f47722b20-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/cd89fef7ffdd490db800357f47722b20-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/cd89fef7ffdd490db800357f47722b20-Paper.pdf"
+    ],
+    "Learning Fine Motion by Markov Mixtures of Experts": [
+        "https://proceedings.neurips.cc/paper/1995/file/6c340f25839e6acdc73414517203f5f0-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/6c340f25839e6acdc73414517203f5f0-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/6c340f25839e6acdc73414517203f5f0-Paper.pdf"
+    ],
+    "Estimating the Bayes Risk from Sample Data": [
+        "https://proceedings.neurips.cc/paper/1995/file/2290a7385ed77cc5592dc2153229f082-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/2290a7385ed77cc5592dc2153229f082-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/2290a7385ed77cc5592dc2153229f082-Paper.pdf"
+    ],
+    "A Unified Learning Scheme: Bayesian-Kullback Ying-Yang Machine": [
+        "https://proceedings.neurips.cc/paper/1995/file/a2137a2ae8e39b5002a3f8909ecb88fe-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/a2137a2ae8e39b5002a3f8909ecb88fe-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/a2137a2ae8e39b5002a3f8909ecb88fe-Paper.pdf"
+    ],
+    "On Neural Networks with Minimal Weights": [
+        "https://proceedings.neurips.cc/paper/1995/file/43dd49b4fdb9bede653e94468ff8df1e-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/43dd49b4fdb9bede653e94468ff8df1e-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/43dd49b4fdb9bede653e94468ff8df1e-Paper.pdf"
+    ],
+    "SPERT-II: A Vector Microprocessor System and its Application to Large Problems in Backpropagation Training": [
+        "https://proceedings.neurips.cc/paper/1995/file/31857b449c407203749ae32dd0e7d64a-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/31857b449c407203749ae32dd0e7d64a-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/31857b449c407203749ae32dd0e7d64a-Paper.pdf"
+    ],
+    "A Neural Network Model of 3-D Lightness Perception": [
+        "https://proceedings.neurips.cc/paper/1995/file/53adaf494dc89ef7196d73636eb2451b-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/53adaf494dc89ef7196d73636eb2451b-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/53adaf494dc89ef7196d73636eb2451b-Paper.pdf"
+    ],
+    "How Perception Guides Production in Birdsong Learning": [
+        "https://proceedings.neurips.cc/paper/1995/file/fc2c7c47b918d0c2d792a719dfb602ef-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/fc2c7c47b918d0c2d792a719dfb602ef-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/fc2c7c47b918d0c2d792a719dfb602ef-Paper.pdf"
+    ],
+    "Neural Network Recognizer for Hand-Written Zip Code Digits": [
+        "https://proceedings.neurips.cc/paper/1988/file/a97da629b098b75c294dffdc3e463904-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/a97da629b098b75c294dffdc3e463904-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/a97da629b098b75c294dffdc3e463904-Paper.pdf"
+    ],
+    "A Bound on the Error of Cross Validation Using the Approximation and Estimation Rates, with Consequences for the Training-Test Split": [
+        "https://proceedings.neurips.cc/paper/1995/file/dc58e3a306451c9d670adcd37004f48f-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/dc58e3a306451c9d670adcd37004f48f-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/dc58e3a306451c9d670adcd37004f48f-Paper.pdf"
+    ],
+    "A Model of Spatial Representations in Parietal Cortex Explains Hemineglect": [
+        "https://proceedings.neurips.cc/paper/1995/file/1b0114c51cc532ed34e1954b5b9e4b58-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/1b0114c51cc532ed34e1954b5b9e4b58-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/1b0114c51cc532ed34e1954b5b9e4b58-Paper.pdf"
+    ],
+    "Dynamics of On-Line Gradient Descent Learning for Multilayer Neural Networks": [
+        "https://proceedings.neurips.cc/paper/1995/file/a1519de5b5d44b31a01de013b9b51a80-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/a1519de5b5d44b31a01de013b9b51a80-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/a1519de5b5d44b31a01de013b9b51a80-Paper.pdf"
+    ],
+    "Improving Elevator Performance Using Reinforcement Learning": [
+        "https://proceedings.neurips.cc/paper/1995/file/390e982518a50e280d8e2b535462ec1f-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/390e982518a50e280d8e2b535462ec1f-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/390e982518a50e280d8e2b535462ec1f-Paper.pdf"
+    ],
+    "Visual gesture-based robot guidance with a modular neural system": [
+        "https://proceedings.neurips.cc/paper/1995/file/708f3cf8100d5e71834b1db77dfa15d6-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/708f3cf8100d5e71834b1db77dfa15d6-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/708f3cf8100d5e71834b1db77dfa15d6-Paper.pdf"
+    ],
+    "Improving Committee Diagnosis with Resampling Techniques": [
+        "https://proceedings.neurips.cc/paper/1995/file/46072631582fc240dd2674a7d063b040-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/46072631582fc240dd2674a7d063b040-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/46072631582fc240dd2674a7d063b040-Paper.pdf"
+    ],
+    "Learning Sparse Perceptrons": [
+        "https://proceedings.neurips.cc/paper/1995/file/8a1e808b55fde9455cb3d8857ed88389-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/8a1e808b55fde9455cb3d8857ed88389-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/8a1e808b55fde9455cb3d8857ed88389-Paper.pdf"
+    ],
+    "A Neural Network Autoassociator for Induction Motor Failure Prediction": [
+        "https://proceedings.neurips.cc/paper/1995/file/062ddb6c727310e76b6200b7c71f63b5-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/062ddb6c727310e76b6200b7c71f63b5-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/062ddb6c727310e76b6200b7c71f63b5-Paper.pdf"
+    ],
+    "Modeling Interactions of the Rat's Place and Head Direction Systems": [
+        "https://proceedings.neurips.cc/paper/1995/file/522a9ae9a99880d39e5daec35375e999-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/522a9ae9a99880d39e5daec35375e999-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/522a9ae9a99880d39e5daec35375e999-Paper.pdf"
+    ],
+    "Active Gesture Recognition using Learned Visual Attention": [
+        "https://proceedings.neurips.cc/paper/1995/file/43baa6762fa81bb43b39c62553b2970d-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/43baa6762fa81bb43b39c62553b2970d-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/43baa6762fa81bb43b39c62553b2970d-Paper.pdf"
+    ],
+    "Neural Networks for Model Matching and Perceptual Organization": [
+        "https://proceedings.neurips.cc/paper/1988/file/a3c65c2974270fd093ee8a9bf8ae7d0b-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/a3c65c2974270fd093ee8a9bf8ae7d0b-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/a3c65c2974270fd093ee8a9bf8ae7d0b-Paper.pdf"
+    ],
+    "Symplectic Nonlinear Component Analysis": [
+        "https://proceedings.neurips.cc/paper/1995/file/731c83db8d2ff01bdc000083fd3c3740-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/731c83db8d2ff01bdc000083fd3c3740-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/731c83db8d2ff01bdc000083fd3c3740-Paper.pdf"
+    ],
+    "Using the Future to \"Sort Out\" the Present: Rankprop and Multitask Learning for Medical Risk Evaluation": [
+        "https://proceedings.neurips.cc/paper/1995/file/36a16a2505369e0c922b6ea7a23a56d2-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/36a16a2505369e0c922b6ea7a23a56d2-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/36a16a2505369e0c922b6ea7a23a56d2-Paper.pdf"
+    ],
+    "Prediction of Beta Sheets in Proteins": [
+        "https://proceedings.neurips.cc/paper/1995/file/818f4654ed39a1c147d1e51a00ffb4cb-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/818f4654ed39a1c147d1e51a00ffb4cb-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/818f4654ed39a1c147d1e51a00ffb4cb-Paper.pdf"
+    ],
+    "Unsupervised Pixel-prediction": [
+        "https://proceedings.neurips.cc/paper/1995/file/e5e63da79fcd2bebbd7cb8bf1c1d0274-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/e5e63da79fcd2bebbd7cb8bf1c1d0274-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/e5e63da79fcd2bebbd7cb8bf1c1d0274-Paper.pdf"
+    ],
+    "High-Speed Airborne Particle Monitoring Using Artificial Neural Networks": [
+        "https://proceedings.neurips.cc/paper/1995/file/9f36407ead0629fc166f14dde7970f68-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/9f36407ead0629fc166f14dde7970f68-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/9f36407ead0629fc166f14dde7970f68-Paper.pdf"
+    ],
+    "Examples of learning curves from a modified VC-formalism": [
+        "https://proceedings.neurips.cc/paper/1995/file/d91d1b4d82419de8a614abce9cc0e6d4-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/d91d1b4d82419de8a614abce9cc0e6d4-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/d91d1b4d82419de8a614abce9cc0e6d4-Paper.pdf"
+    ],
+    "Using Feedforward Neural Networks to Monitor Alertness from Changes in EEG Correlation and Coherence": [
+        "https://proceedings.neurips.cc/paper/1995/file/a26398dca6f47b49876cbaffbc9954f9-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/a26398dca6f47b49876cbaffbc9954f9-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/a26398dca6f47b49876cbaffbc9954f9-Paper.pdf"
+    ],
+    "Softassign versus Softmax: Benchmarks in Combinatorial Optimization": [
+        "https://proceedings.neurips.cc/paper/1995/file/b1563a78ec59337587f6ab6397699afc-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/b1563a78ec59337587f6ab6397699afc-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/b1563a78ec59337587f6ab6397699afc-Paper.pdf"
+    ],
+    "Beating a Defender in Robotic Soccer: Memory-Based Learning of a Continuous Function": [
+        "https://proceedings.neurips.cc/paper/1995/file/03f544613917945245041ea1581df0c2-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/03f544613917945245041ea1581df0c2-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/03f544613917945245041ea1581df0c2-Paper.pdf"
+    ],
+    "Applications of Error Back-Propagation to Phonetic Classification": [
+        "https://proceedings.neurips.cc/paper/1988/file/2723d092b63885e0d7c260cc007e8b9d-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/2723d092b63885e0d7c260cc007e8b9d-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/2723d092b63885e0d7c260cc007e8b9d-Paper.pdf"
+    ],
+    "Absence of Cycles in Symmetric Neural Networks": [
+        "https://proceedings.neurips.cc/paper/1995/file/8b4066554730ddfaa0266346bdc1b202-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/8b4066554730ddfaa0266346bdc1b202-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/8b4066554730ddfaa0266346bdc1b202-Paper.pdf"
+    ],
+    "Independent Component Analysis of Electroencephalographic Data": [
+        "https://proceedings.neurips.cc/paper/1995/file/754dda4b1ba34c6fa89716b85d68532b-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/754dda4b1ba34c6fa89716b85d68532b-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/754dda4b1ba34c6fa89716b85d68532b-Paper.pdf"
+    ],
+    "Clustering data through an analogy to the Potts model": [
+        "https://proceedings.neurips.cc/paper/1995/file/6a2feef8ed6a9fe76d6b3f30f02150b4-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/6a2feef8ed6a9fe76d6b3f30f02150b4-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/6a2feef8ed6a9fe76d6b3f30f02150b4-Paper.pdf"
+    ],
+    "Plasticity of Center-Surround Opponent Receptive Fields in Real and Artificial Neural Systems of Vision": [
+        "https://proceedings.neurips.cc/paper/1995/file/41bfd20a38bb1b0bec75acf0845530a7-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/41bfd20a38bb1b0bec75acf0845530a7-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/41bfd20a38bb1b0bec75acf0845530a7-Paper.pdf"
+    ],
+    "Worst-case Loss Bounds for Single Neurons": [
+        "https://proceedings.neurips.cc/paper/1995/file/d6723e7cd6735df68d1ce4c704c29a04-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/d6723e7cd6735df68d1ce4c704c29a04-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/d6723e7cd6735df68d1ce4c704c29a04-Paper.pdf"
+    ],
+    "Predictive Q-Routing: A Memory-based Reinforcement Learning Approach to Adaptive Traffic Control": [
+        "https://proceedings.neurips.cc/paper/1995/file/4e2545f819e67f0615003dd7e04a6087-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/4e2545f819e67f0615003dd7e04a6087-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/4e2545f819e67f0615003dd7e04a6087-Paper.pdf"
+    ],
+    "Using Unlabeled Data for Supervised Learning": [
+        "https://proceedings.neurips.cc/paper/1995/file/db2b4182156b2f1f817860ac9f409ad7-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/db2b4182156b2f1f817860ac9f409ad7-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/db2b4182156b2f1f817860ac9f409ad7-Paper.pdf"
+    ],
+    "Discovering Structure in Continuous Variables Using Bayesian Networks": [
+        "https://proceedings.neurips.cc/paper/1995/file/a5e0ff62be0b08456fc7f1e88812af3d-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/a5e0ff62be0b08456fc7f1e88812af3d-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/a5e0ff62be0b08456fc7f1e88812af3d-Paper.pdf"
+    ],
+    "Adaptive Mixture of Probabilistic Transducers": [
+        "https://proceedings.neurips.cc/paper/1995/file/a0160709701140704575d499c997b6ca-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/a0160709701140704575d499c997b6ca-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/a0160709701140704575d499c997b6ca-Paper.pdf"
+    ],
+    "Microelectronic Implementations of Connectionist Neural Networks": [
+        "https://proceedings.neurips.cc/paper/1987/file/6512bd43d9caa6e02c990b0a82652dca-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1987/file/6512bd43d9caa6e02c990b0a82652dca-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1987/file/6512bd43d9caa6e02c990b0a82652dca-Paper.pdf"
+    ],
+    "Adaptive Neural Networks Using MOS Charge Storage": [
+        "https://proceedings.neurips.cc/paper/1988/file/5f93f983524def3dca464469d2cf9f3e-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/5f93f983524def3dca464469d2cf9f3e-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/5f93f983524def3dca464469d2cf9f3e-Paper.pdf"
+    ],
+    "Tempering Backpropagation Networks: Not All Weights are Created Equal": [
+        "https://proceedings.neurips.cc/paper/1995/file/1e6e0a04d20f50967c64dac2d639a577-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/1e6e0a04d20f50967c64dac2d639a577-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/1e6e0a04d20f50967c64dac2d639a577-Paper.pdf"
+    ],
+    "Finite State Automata that Recurrent Cascade-Correlation Cannot Represent": [
+        "https://proceedings.neurips.cc/paper/1995/file/c6bff625bdb0393992c9d4db0c6bbe45-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/c6bff625bdb0393992c9d4db0c6bbe45-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/c6bff625bdb0393992c9d4db0c6bbe45-Paper.pdf"
+    ],
+    "Hierarchical Recurrent Neural Networks for Long-Term Dependencies": [
+        "https://proceedings.neurips.cc/paper/1995/file/c667d53acd899a97a85de0c201ba99be-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/c667d53acd899a97a85de0c201ba99be-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/c667d53acd899a97a85de0c201ba99be-Paper.pdf"
+    ],
+    "Optimizing Cortical Mappings": [
+        "https://proceedings.neurips.cc/paper/1995/file/aace49c7d80767cffec0e513ae886df0-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/aace49c7d80767cffec0e513ae886df0-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/aace49c7d80767cffec0e513ae886df0-Paper.pdf"
+    ],
+    "Cholinergic suppression of transmission may allow combined associative memory function and self-organization in the neocortex": [
+        "https://proceedings.neurips.cc/paper/1995/file/af21d0c97db2e27e13572cbf59eb343d-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/af21d0c97db2e27e13572cbf59eb343d-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/af21d0c97db2e27e13572cbf59eb343d-Paper.pdf"
+    ],
+    "Handwritten Word Recognition using Contextual Hybrid Radial Basis Function Network/Hidden Markov Models": [
+        "https://proceedings.neurips.cc/paper/1995/file/c9f95a0a5af052bffce5c89917335f67-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/c9f95a0a5af052bffce5c89917335f67-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/c9f95a0a5af052bffce5c89917335f67-Paper.pdf"
+    ],
+    "Human Reading and the Curse of Dimensionality": [
+        "https://proceedings.neurips.cc/paper/1995/file/e58cc5ca94270acaceed13bc82dfedf7-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/e58cc5ca94270acaceed13bc82dfedf7-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/e58cc5ca94270acaceed13bc82dfedf7-Paper.pdf"
+    ],
+    "Sample Complexity for Learning Recurrent Perceptron Mappings": [
+        "https://proceedings.neurips.cc/paper/1995/file/b9d487a30398d42ecff55c228ed5652b-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/b9d487a30398d42ecff55c228ed5652b-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/b9d487a30398d42ecff55c228ed5652b-Paper.pdf"
+    ],
+    "Generalization in Reinforcement Learning: Successful Examples Using Sparse Coarse Coding": [
+        "https://proceedings.neurips.cc/paper/1995/file/8f1d43620bc6bb580df6e80b0dc05c48-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/8f1d43620bc6bb580df6e80b0dc05c48-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/8f1d43620bc6bb580df6e80b0dc05c48-Paper.pdf"
+    ],
+    "Dynamics of Analog Neural Networks with Time Delay": [
+        "https://proceedings.neurips.cc/paper/1988/file/698d51a19d8a121ce581499d7b701668-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/698d51a19d8a121ce581499d7b701668-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/698d51a19d8a121ce581499d7b701668-Paper.pdf"
+    ],
+    "Fast Learning by Bounding Likelihoods in Sigmoid Type Belief Networks": [
+        "https://proceedings.neurips.cc/paper/1995/file/b59c67bf196a4758191e42f76670ceba-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/b59c67bf196a4758191e42f76670ceba-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/b59c67bf196a4758191e42f76670ceba-Paper.pdf"
+    ],
+    "Learning Model Bias": [
+        "https://proceedings.neurips.cc/paper/1995/file/20d135f0f28185b84a4cf7aa51f29500-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/20d135f0f28185b84a4cf7aa51f29500-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/20d135f0f28185b84a4cf7aa51f29500-Paper.pdf"
+    ],
+    "Generalized Learning Vector Quantization": [
+        "https://proceedings.neurips.cc/paper/1995/file/9c3b1830513cc3b8fc4b76635d32e692-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/9c3b1830513cc3b8fc4b76635d32e692-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/9c3b1830513cc3b8fc4b76635d32e692-Paper.pdf"
+    ],
+    "Stock Selection via Nonlinear Multi-Factor Models": [
+        "https://proceedings.neurips.cc/paper/1995/file/d6ef5f7fa914c19931a55bb262ec879c-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/d6ef5f7fa914c19931a55bb262ec879c-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/d6ef5f7fa914c19931a55bb262ec879c-Paper.pdf"
+    ],
+    "A New Learning Algorithm for Blind Signal Separation": [
+        "https://proceedings.neurips.cc/paper/1995/file/e19347e1c3ca0c0b97de5fb3b690855a-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/e19347e1c3ca0c0b97de5fb3b690855a-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/e19347e1c3ca0c0b97de5fb3b690855a-Paper.pdf"
+    ],
+    "Classifying Facial Action": [
+        "https://proceedings.neurips.cc/paper/1995/file/dd77279f7d325eec933f05b1672f6a1f-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/dd77279f7d325eec933f05b1672f6a1f-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/dd77279f7d325eec933f05b1672f6a1f-Paper.pdf"
+    ],
+    "Parallel Optimization of Motion Controllers via Policy Iteration": [
+        "https://proceedings.neurips.cc/paper/1995/file/0eec27c419d0fe24e53c90338cdc8bc6-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/0eec27c419d0fe24e53c90338cdc8bc6-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/0eec27c419d0fe24e53c90338cdc8bc6-Paper.pdf"
+    ],
+    "A Framework for Non-rigid Matching and Correspondence": [
+        "https://proceedings.neurips.cc/paper/1995/file/c60d060b946d6dd6145dcbad5c4ccf6f-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/c60d060b946d6dd6145dcbad5c4ccf6f-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/c60d060b946d6dd6145dcbad5c4ccf6f-Paper.pdf"
+    ],
+    "A Smoothing Regularizer for Recurrent Neural Networks": [
+        "https://proceedings.neurips.cc/paper/1995/file/8597a6cfa74defcbde3047c891d78f90-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/8597a6cfa74defcbde3047c891d78f90-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/8597a6cfa74defcbde3047c891d78f90-Paper.pdf"
+    ],
+    "Cricket Wind Detection": [
+        "https://proceedings.neurips.cc/paper/1988/file/7f6ffaa6bb0b408017b62254211691b5-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/7f6ffaa6bb0b408017b62254211691b5-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/7f6ffaa6bb0b408017b62254211691b5-Paper.pdf"
+    ],
+    "Optimization Principles for the Neural Code": [
+        "https://proceedings.neurips.cc/paper/1995/file/c6036a69be21cb660499b75718a3ef24-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/c6036a69be21cb660499b75718a3ef24-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/c6036a69be21cb660499b75718a3ef24-Paper.pdf"
+    ],
+    "Optimal Asset Allocation using Adaptive Dynamic Programming": [
+        "https://proceedings.neurips.cc/paper/1995/file/3a15c7d0bbe60300a39f76f8a5ba6896-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/3a15c7d0bbe60300a39f76f8a5ba6896-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/3a15c7d0bbe60300a39f76f8a5ba6896-Paper.pdf"
+    ],
+    "Recursive Estimation of Dynamic Modular RBF Networks": [
+        "https://proceedings.neurips.cc/paper/1995/file/3b712de48137572f3849aabd5666a4e3-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/3b712de48137572f3849aabd5666a4e3-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/3b712de48137572f3849aabd5666a4e3-Paper.pdf"
+    ],
+    "Silicon Models for Auditory Scene Analysis": [
+        "https://proceedings.neurips.cc/paper/1995/file/2cfd4560539f887a5e420412b370b361-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/2cfd4560539f887a5e420412b370b361-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/2cfd4560539f887a5e420412b370b361-Paper.pdf"
+    ],
+    "Memory-based Stochastic Optimization": [
+        "https://proceedings.neurips.cc/paper/1995/file/c7635bfd99248a2cdef8249ef7bfbef4-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/c7635bfd99248a2cdef8249ef7bfbef4-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/c7635bfd99248a2cdef8249ef7bfbef4-Paper.pdf"
+    ],
+    "Parallel analog VLSI architectures for computation of heading direction and time-to-contact": [
+        "https://proceedings.neurips.cc/paper/1995/file/c21002f464c5fc5bee3b98ced83963b8-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/c21002f464c5fc5bee3b98ced83963b8-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/c21002f464c5fc5bee3b98ced83963b8-Paper.pdf"
+    ],
+    "Recurrent Neural Networks for Missing or Asynchronous Data": [
+        "https://proceedings.neurips.cc/paper/1995/file/ffeed84c7cb1ae7bf4ec4bd78275bb98-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/ffeed84c7cb1ae7bf4ec4bd78275bb98-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/ffeed84c7cb1ae7bf4ec4bd78275bb98-Paper.pdf"
+    ],
+    "A Realizable Learning Task which Exhibits Overfitting": [
+        "https://proceedings.neurips.cc/paper/1995/file/678a1491514b7f1006d605e9161946b1-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/678a1491514b7f1006d605e9161946b1-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/678a1491514b7f1006d605e9161946b1-Paper.pdf"
+    ],
+    "Modeling Saccadic Targeting in Visual Search": [
+        "https://proceedings.neurips.cc/paper/1995/file/3fe78a8acf5fda99de95303940a2420c-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/3fe78a8acf5fda99de95303940a2420c-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/3fe78a8acf5fda99de95303940a2420c-Paper.pdf"
+    ],
+    "Simulation of a Thalamocortical Circuit for Computing Directional Heading in the Rat": [
+        "https://proceedings.neurips.cc/paper/1995/file/69a5b5995110b36a9a347898d97a610e-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/69a5b5995110b36a9a347898d97a610e-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/69a5b5995110b36a9a347898d97a610e-Paper.pdf"
+    ],
+    "Use of Multi-Layered Networks for Coding Speech with Phonetic Features": [
+        "https://proceedings.neurips.cc/paper/1988/file/73278a4a86960eeb576a8fd4c9ec6997-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/73278a4a86960eeb576a8fd4c9ec6997-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/73278a4a86960eeb576a8fd4c9ec6997-Paper.pdf"
+    ],
+    "Some results on convergent unlearning algorithm": [
+        "https://proceedings.neurips.cc/paper/1995/file/4a213d37242bdcad8e7300e202e7caa4-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/4a213d37242bdcad8e7300e202e7caa4-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/4a213d37242bdcad8e7300e202e7caa4-Paper.pdf"
+    ],
+    "Discriminant Adaptive Nearest Neighbor Classification and Regression": [
+        "https://proceedings.neurips.cc/paper/1995/file/fe709c654eac84d5239d1a12a4f71877-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/fe709c654eac84d5239d1a12a4f71877-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/fe709c654eac84d5239d1a12a4f71877-Paper.pdf"
+    ],
+    "EM Optimization of Latent-Variable Density Models": [
+        "https://proceedings.neurips.cc/paper/1995/file/571e0f7e2d992e738adff8b1bd43a521-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/571e0f7e2d992e738adff8b1bd43a521-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/571e0f7e2d992e738adff8b1bd43a521-Paper.pdf"
+    ],
+    "Stable Fitted Reinforcement Learning": [
+        "https://proceedings.neurips.cc/paper/1995/file/fd06b8ea02fe5b1c2496fe1700e9d16c-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/fd06b8ea02fe5b1c2496fe1700e9d16c-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/fd06b8ea02fe5b1c2496fe1700e9d16c-Paper.pdf"
+    ],
+    "Competence Acquisition in an Autonomous Mobile Robot using Hardware Neural Techniques": [
+        "https://proceedings.neurips.cc/paper/1995/file/7c9d0b1f96aebd7b5eca8c3edaa19ebb-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/7c9d0b1f96aebd7b5eca8c3edaa19ebb-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/7c9d0b1f96aebd7b5eca8c3edaa19ebb-Paper.pdf"
+    ],
+    "Information through a Spiking Neuron": [
+        "https://proceedings.neurips.cc/paper/1995/file/fd2c5e4680d9a01dba3aada5ece22270-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/fd2c5e4680d9a01dba3aada5ece22270-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/fd2c5e4680d9a01dba3aada5ece22270-Paper.pdf"
+    ],
+    "The Capacity of a Bump": [
+        "https://proceedings.neurips.cc/paper/1995/file/47a658229eb2368a99f1d032c8848542-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/47a658229eb2368a99f1d032c8848542-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/47a658229eb2368a99f1d032c8848542-Paper.pdf"
+    ],
+    "A Dynamical Systems Approach for a Learnable Autonomous Robot": [
+        "https://proceedings.neurips.cc/paper/1995/file/c3e0c62ee91db8dc7382bde7419bb573-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/c3e0c62ee91db8dc7382bde7419bb573-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/c3e0c62ee91db8dc7382bde7419bb573-Paper.pdf"
+    ],
+    "Rapid Quality Estimation of Neural Network Input Representations": [
+        "https://proceedings.neurips.cc/paper/1995/file/184260348236f9554fe9375772ff966e-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/184260348236f9554fe9375772ff966e-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/184260348236f9554fe9375772ff966e-Paper.pdf"
+    ],
+    "Implications of Recursive Distributed Representations": [
+        "https://proceedings.neurips.cc/paper/1988/file/5fd0b37cd7dbbb00f97ba6ce92bf5add-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/5fd0b37cd7dbbb00f97ba6ce92bf5add-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/5fd0b37cd7dbbb00f97ba6ce92bf5add-Paper.pdf"
+    ],
+    "Active Learning in Multilayer Perceptrons": [
+        "https://proceedings.neurips.cc/paper/1995/file/8248a99e81e752cb9b41da3fc43fbe7f-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/8248a99e81e752cb9b41da3fc43fbe7f-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/8248a99e81e752cb9b41da3fc43fbe7f-Paper.pdf"
+    ],
+    "Investment Learning with Hierarchical PSOMs": [
+        "https://proceedings.neurips.cc/paper/1995/file/f7f580e11d00a75814d2ded41fe8e8fe-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/f7f580e11d00a75814d2ded41fe8e8fe-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/f7f580e11d00a75814d2ded41fe8e8fe-Paper.pdf"
+    ],
+    "Explorations with the Dynamic Wave Model": [
+        "https://proceedings.neurips.cc/paper/1995/file/8ce6790cc6a94e65f17f908f462fae85-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/8ce6790cc6a94e65f17f908f462fae85-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/8ce6790cc6a94e65f17f908f462fae85-Paper.pdf"
+    ],
+    "Improving Policies without Measuring Merits": [
+        "https://proceedings.neurips.cc/paper/1995/file/208e43f0e45c4c78cafadb83d2888cb6-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/208e43f0e45c4c78cafadb83d2888cb6-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/208e43f0e45c4c78cafadb83d2888cb6-Paper.pdf"
+    ],
+    "Factorial Hidden Markov Models": [
+        "https://proceedings.neurips.cc/paper/1995/file/4588e674d3f0faf985047d4c3f13ed0d-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/4588e674d3f0faf985047d4c3f13ed0d-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/4588e674d3f0faf985047d4c3f13ed0d-Paper.pdf"
+    ],
+    "A Predictive Switching Model of Cerebellar Movement Control": [
+        "https://proceedings.neurips.cc/paper/1995/file/feab05aa91085b7a8012516bc3533958-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/feab05aa91085b7a8012516bc3533958-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/feab05aa91085b7a8012516bc3533958-Paper.pdf"
+    ],
+    "The Role of Activity in Synaptic Competition at the Neuromuscular Junction": [
+        "https://proceedings.neurips.cc/paper/1995/file/8a3363abe792db2d8761d6403605aeb7-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/8a3363abe792db2d8761d6403605aeb7-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/8a3363abe792db2d8761d6403605aeb7-Paper.pdf"
+    ],
+    "Geometry of Early Stopping in Linear Networks": [
+        "https://proceedings.neurips.cc/paper/1995/file/a1d50185e7426cbb0acad1e6ca74b9aa-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/a1d50185e7426cbb0acad1e6ca74b9aa-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/a1d50185e7426cbb0acad1e6ca74b9aa-Paper.pdf"
+    ],
+    "Laterally Interconnected Self-Organizing Maps in Hand-Written Digit Recognition": [
+        "https://proceedings.neurips.cc/paper/1995/file/09c6c3783b4a70054da74f2538ed47c6-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/09c6c3783b4a70054da74f2538ed47c6-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/09c6c3783b4a70054da74f2538ed47c6-Paper.pdf"
+    ],
+    "Heterogeneous Neural Networks for Adaptive Behavior in Dynamic Environments": [
+        "https://proceedings.neurips.cc/paper/1988/file/2b44928ae11fb9384c4cf38708677c48-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/2b44928ae11fb9384c4cf38708677c48-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/2b44928ae11fb9384c4cf38708677c48-Paper.pdf"
+    ],
+    "Primitive Manipulation Learning with Connectionism": [
+        "https://proceedings.neurips.cc/paper/1995/file/2b38c2df6a49b97f706ec9148ce48d86-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/2b38c2df6a49b97f706ec9148ce48d86-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/2b38c2df6a49b97f706ec9148ce48d86-Paper.pdf"
+    ],
+    "Learning long-term dependencies is not as difficult with NARX networks": [
+        "https://proceedings.neurips.cc/paper/1995/file/f197002b9a0853eca5e046d9ca4663d5-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/f197002b9a0853eca5e046d9ca4663d5-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/f197002b9a0853eca5e046d9ca4663d5-Paper.pdf"
+    ],
+    "Extracting Tree-Structured Representations of Trained Networks": [
+        "https://proceedings.neurips.cc/paper/1995/file/45f31d16b1058d586fc3be7207b58053-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/45f31d16b1058d586fc3be7207b58053-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/45f31d16b1058d586fc3be7207b58053-Paper.pdf"
+    ],
+    "Does the Wake-sleep Algorithm Produce Good Density Estimators?": [
+        "https://proceedings.neurips.cc/paper/1995/file/55b1927fdafef39c48e5b73b5d61ea60-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/55b1927fdafef39c48e5b73b5d61ea60-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/55b1927fdafef39c48e5b73b5d61ea60-Paper.pdf"
+    ],
+    "Control of Selective Visual Attention: Modeling the \"Where\" Pathway": [
+        "https://proceedings.neurips.cc/paper/1995/file/e8b1cbd05f6e6a358a81dee52493dd06-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/e8b1cbd05f6e6a358a81dee52493dd06-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/e8b1cbd05f6e6a358a81dee52493dd06-Paper.pdf"
+    ],
+    "Exploiting Tractable Substructures in Intractable Networks": [
+        "https://proceedings.neurips.cc/paper/1995/file/285f89b802bcb2651801455c86d78f2a-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/285f89b802bcb2651801455c86d78f2a-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/285f89b802bcb2651801455c86d78f2a-Paper.pdf"
+    ],
+    "Adaptive Back-Propagation in On-Line Learning of Multilayer Networks": [
+        "https://proceedings.neurips.cc/paper/1995/file/e22312179bf43e61576081a2f250f845-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/e22312179bf43e61576081a2f250f845-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/e22312179bf43e61576081a2f250f845-Paper.pdf"
+    ],
+    "Temporal coding in the sub-millisecond range: Model of barn owl auditory pathway": [
+        "https://proceedings.neurips.cc/paper/1995/file/a8240cb8235e9c493a0c30607586166c-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/a8240cb8235e9c493a0c30607586166c-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/a8240cb8235e9c493a0c30607586166c-Paper.pdf"
+    ],
+    "On the Computational Power of Noisy Spiking Neurons": [
+        "https://proceedings.neurips.cc/paper/1995/file/0c048b3a434e49e655c1247efb389cec-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/0c048b3a434e49e655c1247efb389cec-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/0c048b3a434e49e655c1247efb389cec-Paper.pdf"
+    ],
+    "A Novel Channel Selection System in Cochlear Implants Using Artificial Neural Network": [
+        "https://proceedings.neurips.cc/paper/1995/file/16e6a3326dd7d868cbc926602a61e4d0-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/16e6a3326dd7d868cbc926602a61e4d0-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/16e6a3326dd7d868cbc926602a61e4d0-Paper.pdf"
+    ],
+    "Convergence and Pattern-Stabilization in the Boltzmann Machine": [
+        "https://proceedings.neurips.cc/paper/1988/file/c45147dee729311ef5b5c3003946c48f-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/c45147dee729311ef5b5c3003946c48f-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/c45147dee729311ef5b5c3003946c48f-Paper.pdf"
+    ],
+    "Harmony Networks Do Not Work": [
+        "https://proceedings.neurips.cc/paper/1995/file/884d79963bd8bc0ae9b13a1aa71add73-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/884d79963bd8bc0ae9b13a1aa71add73-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/884d79963bd8bc0ae9b13a1aa71add73-Paper.pdf"
+    ],
+    "An Information-theoretic Learning Algorithm for Neural Network Classification": [
+        "https://proceedings.neurips.cc/paper/1995/file/38ca89564b2259401518960f7a06f94b-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/38ca89564b2259401518960f7a06f94b-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/38ca89564b2259401518960f7a06f94b-Paper.pdf"
+    ],
+    "Experiments with Neural Networks for Real Time Implementation of Control": [
+        "https://proceedings.neurips.cc/paper/1995/file/abea47ba24142ed16b7d8fbf2c740e0d-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/abea47ba24142ed16b7d8fbf2c740e0d-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/abea47ba24142ed16b7d8fbf2c740e0d-Paper.pdf"
+    ],
+    "Generalisation of A Class of Continuous Neural Networks": [
+        "https://proceedings.neurips.cc/paper/1995/file/6e7d2da6d3953058db75714ac400b584-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/6e7d2da6d3953058db75714ac400b584-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/6e7d2da6d3953058db75714ac400b584-Paper.pdf"
+    ],
+    "Learning to Predict Visibility and Invisibility from Occlusion Events": [
+        "https://proceedings.neurips.cc/paper/1995/file/00e26af6ac3b1c1c49d7c3d79c60d000-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/00e26af6ac3b1c1c49d7c3d79c60d000-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/00e26af6ac3b1c1c49d7c3d79c60d000-Paper.pdf"
+    ],
+    "Constructive Algorithms for Hierarchical Mixtures of Experts": [
+        "https://proceedings.neurips.cc/paper/1995/file/a3fb4fbf9a6f9cf09166aa9c20cbc1ad-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/a3fb4fbf9a6f9cf09166aa9c20cbc1ad-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/a3fb4fbf9a6f9cf09166aa9c20cbc1ad-Paper.pdf"
+    ],
+    "Model Matching and SFMD Computation": [
+        "https://proceedings.neurips.cc/paper/1995/file/0f2c9a93eea6f38fabb3acb1c31488c6-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/0f2c9a93eea6f38fabb3acb1c31488c6-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/0f2c9a93eea6f38fabb3acb1c31488c6-Paper.pdf"
+    ],
+    "Bayesian Methods for Mixtures of Experts": [
+        "https://proceedings.neurips.cc/paper/1995/file/9da187a7a191431db943a9a5a6fec6f4-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/9da187a7a191431db943a9a5a6fec6f4-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/9da187a7a191431db943a9a5a6fec6f4-Paper.pdf"
+    ],
+    "Human Face Detection in Visual Scenes": [
+        "https://proceedings.neurips.cc/paper/1995/file/2f29b6e3abc6ebdefb55456ea6ca5dc8-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/2f29b6e3abc6ebdefb55456ea6ca5dc8-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/2f29b6e3abc6ebdefb55456ea6ca5dc8-Paper.pdf"
+    ],
+    "Temporal Difference Learning in Continuous Time and Space": [
+        "https://proceedings.neurips.cc/paper/1995/file/1e1d184167ca7676cf665225e236a3d2-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/1e1d184167ca7676cf665225e236a3d2-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/1e1d184167ca7676cf665225e236a3d2-Paper.pdf"
+    ],
+    "A Neural Network Classifier for the I100 OCR Chip": [
+        "https://proceedings.neurips.cc/paper/1995/file/3eb71f6293a2a31f3569e10af6552658-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/3eb71f6293a2a31f3569e10af6552658-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/3eb71f6293a2a31f3569e10af6552658-Paper.pdf"
+    ],
+    "Using Pairs of Data-Points to Define Splits for Decision Trees": [
+        "https://proceedings.neurips.cc/paper/1995/file/a113c1ecd3cace2237256f4c712f61b5-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/a113c1ecd3cace2237256f4c712f61b5-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/a113c1ecd3cace2237256f4c712f61b5-Paper.pdf"
+    ],
+    "Stochastic Hillclimbing as a Baseline Method for Evaluating Genetic Algorithms": [
+        "https://proceedings.neurips.cc/paper/1995/file/36a1694bce9815b7e38a9dad05ad42e0-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/36a1694bce9815b7e38a9dad05ad42e0-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/36a1694bce9815b7e38a9dad05ad42e0-Paper.pdf"
+    ],
+    "Improved Silicon Cochlea using Compatible Lateral Bipolar Transistors": [
+        "https://proceedings.neurips.cc/paper/1995/file/0a0a0c8aaa00ade50f74a3f0ca981ed7-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/0a0a0c8aaa00ade50f74a3f0ca981ed7-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/0a0a0c8aaa00ade50f74a3f0ca981ed7-Paper.pdf"
+    ],
+    "Generating Accurate and Diverse Members of a Neural-Network Ensemble": [
+        "https://proceedings.neurips.cc/paper/1995/file/1896a3bf730516dd643ba67b4c447d36-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1995/file/1896a3bf730516dd643ba67b4c447d36-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1995/file/1896a3bf730516dd643ba67b4c447d36-Paper.pdf"
+    ],
+    "Statistical Mechanics of the Mixture of Experts": [
+        "https://proceedings.neurips.cc/paper/1996/file/a7d8ae4569120b5bec12e7b6e9648b86-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/a7d8ae4569120b5bec12e7b6e9648b86-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/a7d8ae4569120b5bec12e7b6e9648b86-Paper.pdf"
+    ],
+    "Microscopic Equations in Rough Energy Landscape for Neural Networks": [
+        "https://proceedings.neurips.cc/paper/1996/file/83f97f4825290be4cb794ec6a234595f-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/83f97f4825290be4cb794ec6a234595f-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/83f97f4825290be4cb794ec6a234595f-Paper.pdf"
+    ],
+    "An Architectural Mechanism for Direction-tuned Cortical Simple Cells: The Role of Mutual Inhibition": [
+        "https://proceedings.neurips.cc/paper/1996/file/7d771e0e8f3633ab54856925ecdefc5d-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/7d771e0e8f3633ab54856925ecdefc5d-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/7d771e0e8f3633ab54856925ecdefc5d-Paper.pdf"
+    ],
+    "Maximum Likelihood Blind Source Separation: A Context-Sensitive Generalization of ICA": [
+        "https://proceedings.neurips.cc/paper/1996/file/dabd8d2ce74e782c65a973ef76fd540b-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/dabd8d2ce74e782c65a973ef76fd540b-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/dabd8d2ce74e782c65a973ef76fd540b-Paper.pdf"
+    ],
+    "Learning by Choice of Internal Representations": [
+        "https://proceedings.neurips.cc/paper/1988/file/5ef059938ba799aaa845e1c2e8a762bd-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/5ef059938ba799aaa845e1c2e8a762bd-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/5ef059938ba799aaa845e1c2e8a762bd-Paper.pdf"
+    ],
+    "Representing Face Images for Emotion Classification": [
+        "https://proceedings.neurips.cc/paper/1996/file/6eb6e75fddec0218351dc5c0c8464104-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/6eb6e75fddec0218351dc5c0c8464104-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/6eb6e75fddec0218351dc5c0c8464104-Paper.pdf"
+    ],
+    "Early Brain Damage": [
+        "https://proceedings.neurips.cc/paper/1996/file/2ac2406e835bd49c70469acae337d292-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/2ac2406e835bd49c70469acae337d292-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/2ac2406e835bd49c70469acae337d292-Paper.pdf"
+    ],
+    "Balancing Between Bagging and Bumping": [
+        "https://proceedings.neurips.cc/paper/1996/file/f47330643ae134ca204bf6b2481fec47-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/f47330643ae134ca204bf6b2481fec47-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/f47330643ae134ca204bf6b2481fec47-Paper.pdf"
+    ],
+    "Adaptive On-line Learning in Changing Environments": [
+        "https://proceedings.neurips.cc/paper/1996/file/0e095e054ee94774d6a496099eb1cf6a-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/0e095e054ee94774d6a496099eb1cf6a-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/0e095e054ee94774d6a496099eb1cf6a-Paper.pdf"
+    ],
+    "Radial Basis Function Networks and Complexity Regularization in Function Learning": [
+        "https://proceedings.neurips.cc/paper/1996/file/97af4fb322bb5c8973ade16764156bed-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/97af4fb322bb5c8973ade16764156bed-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/97af4fb322bb5c8973ade16764156bed-Paper.pdf"
+    ],
+    "Learning Decision Theoretic Utilities through Reinforcement Learning": [
+        "https://proceedings.neurips.cc/paper/1996/file/5680522b8e2bb01943234bce7bf84534-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/5680522b8e2bb01943234bce7bf84534-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/5680522b8e2bb01943234bce7bf84534-Paper.pdf"
+    ],
+    "Text-Based Information Retrieval Using Exponentiated Gradient Descent": [
+        "https://proceedings.neurips.cc/paper/1996/file/2b6d65b9a9445c4271ab9076ead5605a-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/2b6d65b9a9445c4271ab9076ead5605a-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/2b6d65b9a9445c4271ab9076ead5605a-Paper.pdf"
+    ],
+    "Support Vector Method for Function Approximation, Regression Estimation and Signal Processing": [
+        "https://proceedings.neurips.cc/paper/1996/file/4f284803bd0966cc24fa8683a34afc6e-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/4f284803bd0966cc24fa8683a34afc6e-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/4f284803bd0966cc24fa8683a34afc6e-Paper.pdf"
+    ],
+    "Spatiotemporal Coupling and Scaling of Natural Images and Human Visual Sensitivities": [
+        "https://proceedings.neurips.cc/paper/1996/file/c44e503833b64e9f27197a484f4257c0-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/c44e503833b64e9f27197a484f4257c0-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/c44e503833b64e9f27197a484f4257c0-Paper.pdf"
+    ],
+    "Second-order Learning Algorithm with Squared Penalty Term": [
+        "https://proceedings.neurips.cc/paper/1996/file/82c2559140b95ccda9c6ca4a8b981f1e-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/82c2559140b95ccda9c6ca4a8b981f1e-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/82c2559140b95ccda9c6ca4a8b981f1e-Paper.pdf"
+    ],
+    "Skeletonization: A Technique for Trimming the Fat from a Network via Relevance Assessment": [
+        "https://proceedings.neurips.cc/paper/1988/file/07e1cd7dca89a1678042477183b7ac3f-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/07e1cd7dca89a1678042477183b7ac3f-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/07e1cd7dca89a1678042477183b7ac3f-Paper.pdf"
+    ],
+    "Source Separation and Density Estimation by Faithful Equivariant SOM": [
+        "https://proceedings.neurips.cc/paper/1996/file/160c88652d47d0be60bfbfed25111412-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/160c88652d47d0be60bfbfed25111412-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/160c88652d47d0be60bfbfed25111412-Paper.pdf"
+    ],
+    "Regression with Input-Dependent Noise: A Bayesian Treatment": [
+        "https://proceedings.neurips.cc/paper/1996/file/b20bb95ab626d93fd976af958fbc61ba-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/b20bb95ab626d93fd976af958fbc61ba-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/b20bb95ab626d93fd976af958fbc61ba-Paper.pdf"
+    ],
+    "Bangs, Clicks, Snaps, Thuds and Whacks: An Architecture for Acoustic Transient Processing": [
+        "https://proceedings.neurips.cc/paper/1996/file/52292e0c763fd027c6eba6b8f494d2eb-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/52292e0c763fd027c6eba6b8f494d2eb-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/52292e0c763fd027c6eba6b8f494d2eb-Paper.pdf"
+    ],
+    "A New Approach to Hybrid HMM/ANN Speech Recognition using Mutual Information Neural Networks": [
+        "https://proceedings.neurips.cc/paper/1996/file/9a3d458322d70046f63dfd8b0153ece4-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/9a3d458322d70046f63dfd8b0153ece4-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/9a3d458322d70046f63dfd8b0153ece4-Paper.pdf"
+    ],
+    "An Apobayesian Relative of Winnow": [
+        "https://proceedings.neurips.cc/paper/1996/file/a42a596fc71e17828440030074d15e74-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/a42a596fc71e17828440030074d15e74-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/a42a596fc71e17828440030074d15e74-Paper.pdf"
+    ],
+    "Hebb Learning of Features based on their Information Content": [
+        "https://proceedings.neurips.cc/paper/1996/file/0188e8b8b014829e2fa0f430f0a95961-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/0188e8b8b014829e2fa0f430f0a95961-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/0188e8b8b014829e2fa0f430f0a95961-Paper.pdf"
+    ],
+    "Competition Among Networks Improves Committee Performance": [
+        "https://proceedings.neurips.cc/paper/1996/file/9adeb82fffb5444e81fa0ce8ad8afe7a-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/9adeb82fffb5444e81fa0ce8ad8afe7a-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/9adeb82fffb5444e81fa0ce8ad8afe7a-Paper.pdf"
+    ],
+    "Computing with Infinite Networks": [
+        "https://proceedings.neurips.cc/paper/1996/file/ae5e3ce40e0404a45ecacaaf05e5f735-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/ae5e3ce40e0404a45ecacaaf05e5f735-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/ae5e3ce40e0404a45ecacaaf05e5f735-Paper.pdf"
+    ],
+    "ARC-LH: A New Adaptive Resampling Algorithm for Improving ANN Classifiers": [
+        "https://proceedings.neurips.cc/paper/1996/file/c54e7837e0cd0ced286cb5995327d1ab-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/c54e7837e0cd0ced286cb5995327d1ab-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/c54e7837e0cd0ced286cb5995327d1ab-Paper.pdf"
+    ],
+    "Neural Network Models of Chemotaxis in the Nematode Caenorhabditis Elegans": [
+        "https://proceedings.neurips.cc/paper/1996/file/4d2e7bd33c475784381a64e43e50922f-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/4d2e7bd33c475784381a64e43e50922f-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/4d2e7bd33c475784381a64e43e50922f-Paper.pdf"
+    ],
+    "Using Neural Networks to Improve Cochlear Implant Speech Perception": [
+        "https://proceedings.neurips.cc/paper/1987/file/c20ad4d76fe97759aa27a0c99bff6710-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1987/file/c20ad4d76fe97759aa27a0c99bff6710-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1987/file/c20ad4d76fe97759aa27a0c99bff6710-Paper.pdf"
+    ],
+    "A Model of Neural Oscillator for a Unified Submodule": [
+        "https://proceedings.neurips.cc/paper/1988/file/da4fb5c6e93e74d3df8527599fa62642-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/da4fb5c6e93e74d3df8527599fa62642-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/da4fb5c6e93e74d3df8527599fa62642-Paper.pdf"
+    ],
+    "Visual Cortex Circuitry and Orientation Tuning": [
+        "https://proceedings.neurips.cc/paper/1996/file/fe2d010308a6b3799a3d9c728ee74244-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/fe2d010308a6b3799a3d9c728ee74244-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/fe2d010308a6b3799a3d9c728ee74244-Paper.pdf"
+    ],
+    "Combining Neural Network Regression Estimates with Regularized Linear Weights": [
+        "https://proceedings.neurips.cc/paper/1996/file/7501e5d4da87ac39d782741cd794002d-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/7501e5d4da87ac39d782741cd794002d-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/7501e5d4da87ac39d782741cd794002d-Paper.pdf"
+    ],
+    "Dual Kalman Filtering Methods for Nonlinear Prediction, Smoothing and Estimation": [
+        "https://proceedings.neurips.cc/paper/1996/file/147702db07145348245dc5a2f2fe5683-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/147702db07145348245dc5a2f2fe5683-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/147702db07145348245dc5a2f2fe5683-Paper.pdf"
+    ],
+    "Time Series Prediction using Mixtures of Experts": [
+        "https://proceedings.neurips.cc/paper/1996/file/491442df5f88c6aa018e86dac21d3606-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/491442df5f88c6aa018e86dac21d3606-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/491442df5f88c6aa018e86dac21d3606-Paper.pdf"
+    ],
+    "For Valid Generalization the Size of the Weights is More Important than the Size of the Network": [
+        "https://proceedings.neurips.cc/paper/1996/file/fb2fcd534b0ff3bbed73cc51df620323-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/fb2fcd534b0ff3bbed73cc51df620323-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/fb2fcd534b0ff3bbed73cc51df620323-Paper.pdf"
+    ],
+    "An Adaptive WTA using Floating Gate Technology": [
+        "https://proceedings.neurips.cc/paper/1996/file/b571ecea16a9824023ee1af16897a582-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/b571ecea16a9824023ee1af16897a582-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/b571ecea16a9824023ee1af16897a582-Paper.pdf"
+    ],
+    "A Micropower Analog VLSI HMM State Decoder for Wordspotting": [
+        "https://proceedings.neurips.cc/paper/1996/file/144a3f71a03ab7c4f46f9656608efdb2-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/144a3f71a03ab7c4f46f9656608efdb2-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/144a3f71a03ab7c4f46f9656608efdb2-Paper.pdf"
+    ],
+    "GTM: A Principled Alternative to the Self-Organizing Map": [
+        "https://proceedings.neurips.cc/paper/1996/file/4e4e53aa080247bc31d0eb4e7aeb07a0-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/4e4e53aa080247bc31d0eb4e7aeb07a0-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/4e4e53aa080247bc31d0eb4e7aeb07a0-Paper.pdf"
+    ],
+    "A Mixture of Experts Classifier with Learning Based on Both Labelled and Unlabelled Data": [
+        "https://proceedings.neurips.cc/paper/1996/file/a58149d355f02887dfbe55ebb2b64ba3-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/a58149d355f02887dfbe55ebb2b64ba3-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/a58149d355f02887dfbe55ebb2b64ba3-Paper.pdf"
+    ],
+    "Complex-Cell Responses Derived from Center-Surround Inputs: The Surprising Power of Intradendritic Computation": [
+        "https://proceedings.neurips.cc/paper/1996/file/7e7e69ea3384874304911625ac34321c-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/7e7e69ea3384874304911625ac34321c-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/7e7e69ea3384874304911625ac34321c-Paper.pdf"
+    ],
+    "Learning the Solution to the Aperture Problem for Pattern Motion with a Hebb Rule": [
+        "https://proceedings.neurips.cc/paper/1988/file/4c56ff4ce4aaf9573aa5dff913df997a-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/4c56ff4ce4aaf9573aa5dff913df997a-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/4c56ff4ce4aaf9573aa5dff913df997a-Paper.pdf"
+    ],
+    "Self-Organizing and Adaptive Algorithms for Generalized Eigen-Decomposition": [
+        "https://proceedings.neurips.cc/paper/1996/file/f7cade80b7cc92b991cf4d2806d6bd78-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/f7cade80b7cc92b991cf4d2806d6bd78-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/f7cade80b7cc92b991cf4d2806d6bd78-Paper.pdf"
+    ],
+    "Learning Bayesian Belief Networks with Neural Network Estimators": [
+        "https://proceedings.neurips.cc/paper/1996/file/285ab9448d2751ee57ece7f762c39095-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/285ab9448d2751ee57ece7f762c39095-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/285ab9448d2751ee57ece7f762c39095-Paper.pdf"
+    ],
+    "Selective Integration: A Model for Disparity Estimation": [
+        "https://proceedings.neurips.cc/paper/1996/file/a01610228fe998f515a72dd730294d87-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/a01610228fe998f515a72dd730294d87-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/a01610228fe998f515a72dd730294d87-Paper.pdf"
+    ],
+    "On the Effect of Analog Noise in Discrete-Time Analog Computations": [
+        "https://proceedings.neurips.cc/paper/1996/file/33ceb07bf4eeb3da587e268d663aba1a-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/33ceb07bf4eeb3da587e268d663aba1a-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/33ceb07bf4eeb3da587e268d663aba1a-Paper.pdf"
+    ],
+    "A Convergence Proof for the Softassign Quadratic Assignment Algorithm": [
+        "https://proceedings.neurips.cc/paper/1996/file/c8ba76c279269b1c6bc8a07e38e78fa4-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/c8ba76c279269b1c6bc8a07e38e78fa4-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/c8ba76c279269b1c6bc8a07e38e78fa4-Paper.pdf"
+    ],
+    "LSTM can Solve Hard Long Time Lag Problems": [
+        "https://proceedings.neurips.cc/paper/1996/file/a4d2f0d23dcc84ce983ff9157f8b7f88-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/a4d2f0d23dcc84ce983ff9157f8b7f88-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/a4d2f0d23dcc84ce983ff9157f8b7f88-Paper.pdf"
+    ],
+    "Reinforcement Learning for Dynamic Channel Allocation in Cellular Telephone Systems": [
+        "https://proceedings.neurips.cc/paper/1996/file/3948ead63a9f2944218de038d8934305-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/3948ead63a9f2944218de038d8934305-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/3948ead63a9f2944218de038d8934305-Paper.pdf"
+    ],
+    "Clustering Sequences with Hidden Markov Models": [
+        "https://proceedings.neurips.cc/paper/1996/file/6a61d423d02a1c56250dc23ae7ff12f3-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/6a61d423d02a1c56250dc23ae7ff12f3-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/6a61d423d02a1c56250dc23ae7ff12f3-Paper.pdf"
+    ],
+    "On a Modification to the Mean Field EM Algorithm in Factorial Learning": [
+        "https://proceedings.neurips.cc/paper/1996/file/3f67fd97162d20e6fe27748b5b372509-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/3f67fd97162d20e6fe27748b5b372509-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/3f67fd97162d20e6fe27748b5b372509-Paper.pdf"
+    ],
+    "MLP Can Provably Generalize Much Better than VC-bounds Indicate": [
+        "https://proceedings.neurips.cc/paper/1996/file/2715518c875999308842e3455eda2fe3-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/2715518c875999308842e3455eda2fe3-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/2715518c875999308842e3455eda2fe3-Paper.pdf"
+    ],
+    "GEMINI: Gradient Estimation Through Matrix Inversion After Noise Injection": [
+        "https://proceedings.neurips.cc/paper/1988/file/a0a080f42e6f13b3a2df133f073095dd-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/a0a080f42e6f13b3a2df133f073095dd-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/a0a080f42e6f13b3a2df133f073095dd-Paper.pdf"
+    ],
+    "The Generalisation Cost of RAMnets": [
+        "https://proceedings.neurips.cc/paper/1996/file/b24d516bb65a5a58079f0f3526c87c57-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/b24d516bb65a5a58079f0f3526c87c57-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/b24d516bb65a5a58079f0f3526c87c57-Paper.pdf"
+    ],
+    "Multi-Task Learning for Stock Selection": [
+        "https://proceedings.neurips.cc/paper/1996/file/1d72310edc006dadf2190caad5802983-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/1d72310edc006dadf2190caad5802983-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/1d72310edc006dadf2190caad5802983-Paper.pdf"
+    ],
+    "Extraction of Temporal Features in the Electrosensory System of Weakly Electric Fish": [
+        "https://proceedings.neurips.cc/paper/1996/file/3a029f04d76d32e79367c4b3255dda4d-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/3a029f04d76d32e79367c4b3255dda4d-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/3a029f04d76d32e79367c4b3255dda4d-Paper.pdf"
+    ],
+    "Learning Appearance Based Models: Mixtures of Second Moment Experts": [
+        "https://proceedings.neurips.cc/paper/1996/file/43cca4b3de2097b9558efefd0ecc3588-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/43cca4b3de2097b9558efefd0ecc3588-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/43cca4b3de2097b9558efefd0ecc3588-Paper.pdf"
+    ],
+    "Learning from Demonstration": [
+        "https://proceedings.neurips.cc/paper/1996/file/68d13cf26c4b4f4f932e3eff990093ba-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/68d13cf26c4b4f4f932e3eff990093ba-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/68d13cf26c4b4f4f932e3eff990093ba-Paper.pdf"
+    ],
+    "Dynamics of Training": [
+        "https://proceedings.neurips.cc/paper/1996/file/25df35de87aa441b88f22a6c2a830a17-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/25df35de87aa441b88f22a6c2a830a17-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/25df35de87aa441b88f22a6c2a830a17-Paper.pdf"
+    ],
+    "Viewpoint Invariant Face Recognition using Independent Component Analysis and Attractor Networks": [
+        "https://proceedings.neurips.cc/paper/1996/file/3210ddbeaa16948a702b6049b8d9a202-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/3210ddbeaa16948a702b6049b8d9a202-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/3210ddbeaa16948a702b6049b8d9a202-Paper.pdf"
+    ],
+    "Using Curvature Information for Fast Stochastic Search": [
+        "https://proceedings.neurips.cc/paper/1996/file/c4851e8e264415c4094e4e85b0baa7cc-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/c4851e8e264415c4094e4e85b0baa7cc-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/c4851e8e264415c4094e4e85b0baa7cc-Paper.pdf"
+    ],
+    "Efficient Nonlinear Control with Actor-Tutor Architecture": [
+        "https://proceedings.neurips.cc/paper/1996/file/eb86d510361fc23b59f18c1bc9802cc6-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/eb86d510361fc23b59f18c1bc9802cc6-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/eb86d510361fc23b59f18c1bc9802cc6-Paper.pdf"
+    ],
+    "Multidimensional Triangulation and Interpolation for Reinforcement Learning": [
+        "https://proceedings.neurips.cc/paper/1996/file/310ce61c90f3a46e340ee8257bc70e93-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/310ce61c90f3a46e340ee8257bc70e93-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/310ce61c90f3a46e340ee8257bc70e93-Paper.pdf"
+    ],
+    "Linear Learning: Landscapes and Algorithms": [
+        "https://proceedings.neurips.cc/paper/1988/file/202cb962ac59075b964b07152d234b70-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/202cb962ac59075b964b07152d234b70-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/202cb962ac59075b964b07152d234b70-Paper.pdf"
+    ],
+    "Local Bandit Approximation for Optimal Learning Problems": [
+        "https://proceedings.neurips.cc/paper/1996/file/4122cb13c7a474c1976c9706ae36521d-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/4122cb13c7a474c1976c9706ae36521d-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/4122cb13c7a474c1976c9706ae36521d-Paper.pdf"
+    ],
+    "Promoting Poor Features to Supervisors: Some Inputs Work Better as Outputs": [
+        "https://proceedings.neurips.cc/paper/1996/file/6c14da109e294d1e8155be8aa4b1ce8e-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/6c14da109e294d1e8155be8aa4b1ce8e-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/6c14da109e294d1e8155be8aa4b1ce8e-Paper.pdf"
+    ],
+    "Gaussian Processes for Bayesian Classification via Hybrid Monte Carlo": [
+        "https://proceedings.neurips.cc/paper/1996/file/e53a0a2978c28872a4505bdb51db06dc-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/e53a0a2978c28872a4505bdb51db06dc-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/e53a0a2978c28872a4505bdb51db06dc-Paper.pdf"
+    ],
+    "Fast Network Pruning and Feature Extraction by using the Unit-OBS Algorithm": [
+        "https://proceedings.neurips.cc/paper/1996/file/e034fb6b66aacc1d48f445ddfb08da98-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/e034fb6b66aacc1d48f445ddfb08da98-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/e034fb6b66aacc1d48f445ddfb08da98-Paper.pdf"
+    ],
+    "A Constructive Learning Algorithm for Discriminant Tangent Models": [
+        "https://proceedings.neurips.cc/paper/1996/file/81dc9bdb52d04dc20036dbd8313ed055-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/81dc9bdb52d04dc20036dbd8313ed055-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/81dc9bdb52d04dc20036dbd8313ed055-Paper.pdf"
+    ],
+    "Blind Separation of Delayed and Convolved Sources": [
+        "https://proceedings.neurips.cc/paper/1996/file/9996535e07258a7bbfd8b132435c5962-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/9996535e07258a7bbfd8b132435c5962-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/9996535e07258a7bbfd8b132435c5962-Paper.pdf"
+    ],
+    "Neural Models for Part-Whole Hierarchies": [
+        "https://proceedings.neurips.cc/paper/1996/file/7bccfde7714a1ebadf06c5f4cea752c1-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/7bccfde7714a1ebadf06c5f4cea752c1-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/7bccfde7714a1ebadf06c5f4cea752c1-Paper.pdf"
+    ],
+    "Support Vector Regression Machines": [
+        "https://proceedings.neurips.cc/paper/1996/file/d38901788c533e8286cb6400b40b386d-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/d38901788c533e8286cb6400b40b386d-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/d38901788c533e8286cb6400b40b386d-Paper.pdf"
+    ],
+    "Multilayer Neural Networks: One or Two Hidden Layers?": [
+        "https://proceedings.neurips.cc/paper/1996/file/b3ba8f1bee1238a2f37603d90b58898d-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/b3ba8f1bee1238a2f37603d90b58898d-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/b3ba8f1bee1238a2f37603d90b58898d-Paper.pdf"
+    ],
+    "Models of Ocular Dominance Column Formation: Analytical and Computational Results": [
+        "https://proceedings.neurips.cc/paper/1988/file/c8ffe9a587b126f152ed3d89a146b445-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/c8ffe9a587b126f152ed3d89a146b445-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/c8ffe9a587b126f152ed3d89a146b445-Paper.pdf"
+    ],
+    "Predicting Lifetimes in Dynamically Allocated Memory": [
+        "https://proceedings.neurips.cc/paper/1996/file/a9078e8653368c9c291ae2f8b74012e7-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/a9078e8653368c9c291ae2f8b74012e7-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/a9078e8653368c9c291ae2f8b74012e7-Paper.pdf"
+    ],
+    "Ordered Classes and Incomplete Examples in Classification": [
+        "https://proceedings.neurips.cc/paper/1996/file/1c65cef3dfd1e00c0b03923a1c591db4-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/1c65cef3dfd1e00c0b03923a1c591db4-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/1c65cef3dfd1e00c0b03923a1c591db4-Paper.pdf"
+    ],
+    "Unsupervised Learning by Convex and Conic Coding": [
+        "https://proceedings.neurips.cc/paper/1996/file/2de5d16682c3c35007e4e92982f1a2ba-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/2de5d16682c3c35007e4e92982f1a2ba-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/2de5d16682c3c35007e4e92982f1a2ba-Paper.pdf"
+    ],
+    "Learning with Noise and Regularizers in Multilayer Neural Networks": [
+        "https://proceedings.neurips.cc/paper/1996/file/e1d5be1c7f2f456670de3d53c7b54f4a-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/e1d5be1c7f2f456670de3d53c7b54f4a-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/e1d5be1c7f2f456670de3d53c7b54f4a-Paper.pdf"
+    ],
+    "A Neural Model of Visual Contour Integration": [
+        "https://proceedings.neurips.cc/paper/1996/file/2c89109d42178de8a367c0228f169bf8-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/2c89109d42178de8a367c0228f169bf8-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/2c89109d42178de8a367c0228f169bf8-Paper.pdf"
+    ],
+    "Sequential Tracking in Pricing Financial Options using Model Based and Neural Network Approaches": [
+        "https://proceedings.neurips.cc/paper/1996/file/5eac43aceba42c8757b54003a58277b5-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/5eac43aceba42c8757b54003a58277b5-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/5eac43aceba42c8757b54003a58277b5-Paper.pdf"
+    ],
+    "Genetic Algorithms and Explicit Search Statistics": [
+        "https://proceedings.neurips.cc/paper/1996/file/e6d8545daa42d5ced125a4bf747b3688-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/e6d8545daa42d5ced125a4bf747b3688-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/e6d8545daa42d5ced125a4bf747b3688-Paper.pdf"
+    ],
+    "Neural Learning in Structured Parameter Spaces - Natural Riemannian Gradient": [
+        "https://proceedings.neurips.cc/paper/1996/file/39e4973ba3321b80f37d9b55f63ed8b8-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/39e4973ba3321b80f37d9b55f63ed8b8-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/39e4973ba3321b80f37d9b55f63ed8b8-Paper.pdf"
+    ],
+    "An Analog Implementation of the Constant Average Statistics Constraint For Sensor Calibration": [
+        "https://proceedings.neurips.cc/paper/1996/file/2ba8698b79439589fdd2b0f7218d8b07-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/2ba8698b79439589fdd2b0f7218d8b07-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/2ba8698b79439589fdd2b0f7218d8b07-Paper.pdf"
+    ],
+    "Training a 3-Node Neural Network is NP-Complete": [
+        "https://proceedings.neurips.cc/paper/1988/file/3def184ad8f4755ff269862ea77393dd-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/3def184ad8f4755ff269862ea77393dd-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/3def184ad8f4755ff269862ea77393dd-Paper.pdf"
+    ],
+    "Effective Training of a Neural Network Character Classifier for Word Recognition": [
+        "https://proceedings.neurips.cc/paper/1996/file/81e5f81db77c596492e6f1a5a792ed53-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/81e5f81db77c596492e6f1a5a792ed53-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/81e5f81db77c596492e6f1a5a792ed53-Paper.pdf"
+    ],
+    "Multi-effect Decompositions for Financial Data Modeling": [
+        "https://proceedings.neurips.cc/paper/1996/file/838e8afb1ca34354ac209f53d90c3a43-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/838e8afb1ca34354ac209f53d90c3a43-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/838e8afb1ca34354ac209f53d90c3a43-Paper.pdf"
+    ],
+    "A Comparison between Neural Networks and other Statistical Techniques for Modeling the Relationship between Tobacco and Alcohol and Cancer": [
+        "https://proceedings.neurips.cc/paper/1996/file/a284df1155ec3e67286080500df36a9a-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/a284df1155ec3e67286080500df36a9a-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/a284df1155ec3e67286080500df36a9a-Paper.pdf"
+    ],
+    "Improving the Accuracy and Speed of Support Vector Machines": [
+        "https://proceedings.neurips.cc/paper/1996/file/b495ce63ede0f4efc9eec62cb947c162-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/b495ce63ede0f4efc9eec62cb947c162-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/b495ce63ede0f4efc9eec62cb947c162-Paper.pdf"
+    ],
+    "The Effect of Correlated Input Data on the Dynamics of Learning": [
+        "https://proceedings.neurips.cc/paper/1996/file/884ce4bb65d328ecb03c598409e2b168-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/884ce4bb65d328ecb03c598409e2b168-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/884ce4bb65d328ecb03c598409e2b168-Paper.pdf"
+    ],
+    "A Model of Recurrent Interactions in Primary Visual Cortex": [
+        "https://proceedings.neurips.cc/paper/1996/file/3bf55bbad370a8fcad1d09b005e278c2-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/3bf55bbad370a8fcad1d09b005e278c2-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/3bf55bbad370a8fcad1d09b005e278c2-Paper.pdf"
+    ],
+    "The Learning Dynamcis of a Universal Approximator": [
+        "https://proceedings.neurips.cc/paper/1996/file/e3251075554389fe91d17a794861d47b-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/e3251075554389fe91d17a794861d47b-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/e3251075554389fe91d17a794861d47b-Paper.pdf"
+    ],
+    "Removing Noise in On-Line Search using Adaptive Batch Sizes": [
+        "https://proceedings.neurips.cc/paper/1996/file/cd758e8f59dfdf06a852adad277986ca-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/cd758e8f59dfdf06a852adad277986ca-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/cd758e8f59dfdf06a852adad277986ca-Paper.pdf"
+    ],
+    "A Constructive RBF Network for Writer Adaptation": [
+        "https://proceedings.neurips.cc/paper/1996/file/26588e932c7ccfa1df309280702fe1b5-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/26588e932c7ccfa1df309280702fe1b5-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/26588e932c7ccfa1df309280702fe1b5-Paper.pdf"
+    ],
+    "Are Hopfield Networks Faster than Conventional Computers?": [
+        "https://proceedings.neurips.cc/paper/1996/file/68a83eeb494a308fe5295da69428a507-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/68a83eeb494a308fe5295da69428a507-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/68a83eeb494a308fe5295da69428a507-Paper.pdf"
+    ],
+    "Computer Modeling of Associative Learning": [
+        "https://proceedings.neurips.cc/paper/1988/file/069059b7ef840f0c74a814ec9237b6ec-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/069059b7ef840f0c74a814ec9237b6ec-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/069059b7ef840f0c74a814ec9237b6ec-Paper.pdf"
+    ],
+    "Clustering via Concave Minimization": [
+        "https://proceedings.neurips.cc/paper/1996/file/f4573fc71c731d5c362f0d7860945b88-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/f4573fc71c731d5c362f0d7860945b88-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/f4573fc71c731d5c362f0d7860945b88-Paper.pdf"
+    ],
+    "Continuous Sigmoidal Belief Networks Trained using Slice Sampling": [
+        "https://proceedings.neurips.cc/paper/1996/file/17326d10d511828f6b34fa6d751739e2-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/17326d10d511828f6b34fa6d751739e2-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/17326d10d511828f6b34fa6d751739e2-Paper.pdf"
+    ],
+    "Temporal Low-Order Statistics of Natural Sounds": [
+        "https://proceedings.neurips.cc/paper/1996/file/dc4c44f624d600aa568390f1f1104aa0-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/dc4c44f624d600aa568390f1f1104aa0-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/dc4c44f624d600aa568390f1f1104aa0-Paper.pdf"
+    ],
+    "Training Algorithms for Hidden Markov Models using Entropy Based Distance Functions": [
+        "https://proceedings.neurips.cc/paper/1996/file/7eb3c8be3d411e8ebfab08eba5f49632-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/7eb3c8be3d411e8ebfab08eba5f49632-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/7eb3c8be3d411e8ebfab08eba5f49632-Paper.pdf"
+    ],
+    "Hidden Markov Decision Trees": [
+        "https://proceedings.neurips.cc/paper/1996/file/6c8dba7d0df1c4a79dd07646be9a26c8-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/6c8dba7d0df1c4a79dd07646be9a26c8-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/6c8dba7d0df1c4a79dd07646be9a26c8-Paper.pdf"
+    ],
+    "A Silicon Model of Amplitude Modulation Detection in the Auditory Brainstem": [
+        "https://proceedings.neurips.cc/paper/1996/file/0ce2ffd21fc958d9ef0ee9ba5336e357-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/0ce2ffd21fc958d9ef0ee9ba5336e357-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/0ce2ffd21fc958d9ef0ee9ba5336e357-Paper.pdf"
+    ],
+    "Learning Temporally Persistent Hierarchical Representations": [
+        "https://proceedings.neurips.cc/paper/1996/file/8e2cfdc275761edc592f73a076197c33-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/8e2cfdc275761edc592f73a076197c33-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/8e2cfdc275761edc592f73a076197c33-Paper.pdf"
+    ],
+    "Adaptive Access Control Applied to Ethernet Data": [
+        "https://proceedings.neurips.cc/paper/1996/file/b51a15f382ac914391a58850ab343b00-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/b51a15f382ac914391a58850ab343b00-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/b51a15f382ac914391a58850ab343b00-Paper.pdf"
+    ],
+    "A Mean Field Algorithm for Bayes Learning in Large Feed-forward Neural Networks": [
+        "https://proceedings.neurips.cc/paper/1996/file/193002e668758ea9762904da1a22337c-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/193002e668758ea9762904da1a22337c-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/193002e668758ea9762904da1a22337c-Paper.pdf"
+    ],
+    "Analysis of Temporal-Diffference Learning with Function Approximation": [
+        "https://proceedings.neurips.cc/paper/1996/file/e00406144c1e7e35240afed70f34166a-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/e00406144c1e7e35240afed70f34166a-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/e00406144c1e7e35240afed70f34166a-Paper.pdf"
+    ],
+    "Optimization by Mean Field Annealing": [
+        "https://proceedings.neurips.cc/paper/1988/file/ec5decca5ed3d6b8079e2e7e7bacc9f2-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/ec5decca5ed3d6b8079e2e7e7bacc9f2-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/ec5decca5ed3d6b8079e2e7e7bacc9f2-Paper.pdf"
+    ],
+    "Monotonicity Hints": [
+        "https://proceedings.neurips.cc/paper/1996/file/c850371fda6892fbfd1c5a5b457e5777-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/c850371fda6892fbfd1c5a5b457e5777-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/c850371fda6892fbfd1c5a5b457e5777-Paper.pdf"
+    ],
+    "Online Learning from Finite Training Sets: An Analytical Case Study": [
+        "https://proceedings.neurips.cc/paper/1996/file/c1e39d912d21c91dce811d6da9929ae8-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/c1e39d912d21c91dce811d6da9929ae8-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/c1e39d912d21c91dce811d6da9929ae8-Paper.pdf"
+    ],
+    "Bayesian Model Comparison by Monte Carlo Chaining": [
+        "https://proceedings.neurips.cc/paper/1996/file/7810ccd41bf26faaa2c4e1f20db70a71-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/7810ccd41bf26faaa2c4e1f20db70a71-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/7810ccd41bf26faaa2c4e1f20db70a71-Paper.pdf"
+    ],
+    "Multi-Grid Methods for Reinforcement Learning in Controlled Diffusion Processes": [
+        "https://proceedings.neurips.cc/paper/1996/file/f91e24dfe80012e2a7984afa4480a6d6-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/f91e24dfe80012e2a7984afa4480a6d6-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/f91e24dfe80012e2a7984afa4480a6d6-Paper.pdf"
+    ],
+    "Learning Exact Patterns of Quasi-synchronization among Spiking Neurons from Data on Multi-unit Recordings": [
+        "https://proceedings.neurips.cc/paper/1996/file/e702e51da2c0f5be4dd354bb3e295d37-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/e702e51da2c0f5be4dd354bb3e295d37-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/e702e51da2c0f5be4dd354bb3e295d37-Paper.pdf"
+    ],
+    "Representation and Induction of Finite State Machines using Time-Delay Neural Networks": [
+        "https://proceedings.neurips.cc/paper/1996/file/bb04af0f7ecaee4aae62035497da1387-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/bb04af0f7ecaee4aae62035497da1387-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/bb04af0f7ecaee4aae62035497da1387-Paper.pdf"
+    ],
+    "Neural Network Modeling of Speech and Music Signals": [
+        "https://proceedings.neurips.cc/paper/1996/file/fb60d411a5c5b72b2e7d3527cfc84fd0-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/fb60d411a5c5b72b2e7d3527cfc84fd0-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/fb60d411a5c5b72b2e7d3527cfc84fd0-Paper.pdf"
+    ],
+    "A Hierarchical Model of Visual Rivalry": [
+        "https://proceedings.neurips.cc/paper/1996/file/d759175de8ea5b1d9a2660e45554894f-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/d759175de8ea5b1d9a2660e45554894f-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/d759175de8ea5b1d9a2660e45554894f-Paper.pdf"
+    ],
+    "Reinforcement Learning for Mixed Open-loop and Closed-loop Control": [
+        "https://proceedings.neurips.cc/paper/1996/file/ab1a4d0dd4d48a2ba1077c4494791306-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/ab1a4d0dd4d48a2ba1077c4494791306-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/ab1a4d0dd4d48a2ba1077c4494791306-Paper.pdf"
+    ],
+    "Adaptively Growing Hierarchical Mixtures of Experts": [
+        "https://proceedings.neurips.cc/paper/1996/file/995665640dc319973d3173a74a03860c-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/995665640dc319973d3173a74a03860c-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/995665640dc319973d3173a74a03860c-Paper.pdf"
+    ],
+    "Electronic Receptors for Tactile/Haptic Sensing": [
+        "https://proceedings.neurips.cc/paper/1988/file/76dc611d6ebaafc66cc0879c71b5db5c-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/76dc611d6ebaafc66cc0879c71b5db5c-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/76dc611d6ebaafc66cc0879c71b5db5c-Paper.pdf"
+    ],
+    "Ensemble Methods for Phoneme Classification": [
+        "https://proceedings.neurips.cc/paper/1996/file/da11e8cd1811acb79ccf0fd62cd58f86-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/da11e8cd1811acb79ccf0fd62cd58f86-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/da11e8cd1811acb79ccf0fd62cd58f86-Paper.pdf"
+    ],
+    "Dynamically Adaptable CMOS Winner-Take-All Neural Network": [
+        "https://proceedings.neurips.cc/paper/1996/file/d94e18a8adb4cc0f623f7a83b1ac75b4-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/d94e18a8adb4cc0f623f7a83b1ac75b4-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/d94e18a8adb4cc0f623f7a83b1ac75b4-Paper.pdf"
+    ],
+    "Unification of Information Maximization and Minimization": [
+        "https://proceedings.neurips.cc/paper/1996/file/1cecc7a77928ca8133fa24680a88d2f9-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/1cecc7a77928ca8133fa24680a88d2f9-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/1cecc7a77928ca8133fa24680a88d2f9-Paper.pdf"
+    ],
+    "A Variational Principle for Model-based Morphing": [
+        "https://proceedings.neurips.cc/paper/1996/file/018b59ce1fd616d874afad0f44ba338d-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/018b59ce1fd616d874afad0f44ba338d-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/018b59ce1fd616d874afad0f44ba338d-Paper.pdf"
+    ],
+    "Analytical Mean Squared Error Curves in Temporal Difference Learning": [
+        "https://proceedings.neurips.cc/paper/1996/file/242c100dc94f871b6d7215b868a875f8-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/242c100dc94f871b6d7215b868a875f8-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/242c100dc94f871b6d7215b868a875f8-Paper.pdf"
+    ],
+    "Spectroscopic Detection of Cervical Pre-Cancer through Radial Basis Function Networks": [
+        "https://proceedings.neurips.cc/paper/1996/file/944bdd9636749a0801c39b6e449dbedc-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/944bdd9636749a0801c39b6e449dbedc-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/944bdd9636749a0801c39b6e449dbedc-Paper.pdf"
+    ],
+    "Analog VLSI Circuits for Attention-Based, Visual Tracking": [
+        "https://proceedings.neurips.cc/paper/1996/file/c0a271bc0ecb776a094786474322cb82-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/c0a271bc0ecb776a094786474322cb82-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/c0a271bc0ecb776a094786474322cb82-Paper.pdf"
+    ],
+    "VLSI Implementation of Cortical Visual Motion Detection Using an Analog Neural Computer": [
+        "https://proceedings.neurips.cc/paper/1996/file/4079016d940210b4ae9ae7d41c4a2065-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/4079016d940210b4ae9ae7d41c4a2065-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/4079016d940210b4ae9ae7d41c4a2065-Paper.pdf"
+    ],
+    "Minimizing Statistical Bias with Queries": [
+        "https://proceedings.neurips.cc/paper/1996/file/0e9fa1f3e9e66792401a6972d477dcc3-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/0e9fa1f3e9e66792401a6972d477dcc3-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/0e9fa1f3e9e66792401a6972d477dcc3-Paper.pdf"
+    ],
+    "The CONDENSATION Algorithm - Conditional Density Propagation and Applications to Visual Tracking": [
+        "https://proceedings.neurips.cc/paper/1996/file/0829424ffa0d3a2547b6c9622c77de03-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/0829424ffa0d3a2547b6c9622c77de03-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/0829424ffa0d3a2547b6c9622c77de03-Paper.pdf"
+    ],
+    "Scaling and Generalization in Neural Networks: A Case Study": [
+        "https://proceedings.neurips.cc/paper/1988/file/d1f491a404d6854880943e5c3cd9ca25-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/d1f491a404d6854880943e5c3cd9ca25-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/d1f491a404d6854880943e5c3cd9ca25-Paper.pdf"
+    ],
+    "Separating Style and Content": [
+        "https://proceedings.neurips.cc/paper/1996/file/70222949cc0db89ab32c9969754d4758-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/70222949cc0db89ab32c9969754d4758-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/70222949cc0db89ab32c9969754d4758-Paper.pdf"
+    ],
+    "Contour Organisation with the EM Algorithm": [
+        "https://proceedings.neurips.cc/paper/1996/file/71f6278d140af599e06ad9bf1ba03cb0-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/71f6278d140af599e06ad9bf1ba03cb0-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/71f6278d140af599e06ad9bf1ba03cb0-Paper.pdf"
+    ],
+    "Why did TD-Gammon Work?": [
+        "https://proceedings.neurips.cc/paper/1996/file/459a4ddcb586f24efd9395aa7662bc7c-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/459a4ddcb586f24efd9395aa7662bc7c-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/459a4ddcb586f24efd9395aa7662bc7c-Paper.pdf"
+    ],
+    "Bayesian Unsupervised Learning of Higher Order Structure": [
+        "https://proceedings.neurips.cc/paper/1996/file/7c82fab8c8f89124e2ce92984e04fb40-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/7c82fab8c8f89124e2ce92984e04fb40-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/7c82fab8c8f89124e2ce92984e04fb40-Paper.pdf"
+    ],
+    "Dynamic Features for Visual Speechreading: A Systematic Comparison": [
+        "https://proceedings.neurips.cc/paper/1996/file/84438b7aae55a0638073ef798e50b4ef-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/84438b7aae55a0638073ef798e50b4ef-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/84438b7aae55a0638073ef798e50b4ef-Paper.pdf"
+    ],
+    "Limitations of Self-organizing Maps for Vector Quantization and Multidimensional Scaling": [
+        "https://proceedings.neurips.cc/paper/1996/file/dc87c13749315c7217cdc4ac692e704c-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/dc87c13749315c7217cdc4ac692e704c-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/dc87c13749315c7217cdc4ac692e704c-Paper.pdf"
+    ],
+    "3D Object Recognition: A Model of View-Tuned Neurons": [
+        "https://proceedings.neurips.cc/paper/1996/file/2812e5cf6d8f21d69c91dddeefb792a7-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/2812e5cf6d8f21d69c91dddeefb792a7-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/2812e5cf6d8f21d69c91dddeefb792a7-Paper.pdf"
+    ],
+    "Approximate Solutions to Optimal Stopping Problems": [
+        "https://proceedings.neurips.cc/paper/1996/file/286674e3082feb7e5afb92777e48821f-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/286674e3082feb7e5afb92777e48821f-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/286674e3082feb7e5afb92777e48821f-Paper.pdf"
+    ],
+    "488 Solutions to the XOR Problem": [
+        "https://proceedings.neurips.cc/paper/1996/file/a51fb975227d6640e4fe47854476d133-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/a51fb975227d6640e4fe47854476d133-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/a51fb975227d6640e4fe47854476d133-Paper.pdf"
+    ],
+    "The Neurothermostat: Predictive Optimal Control of Residential Heating Systems": [
+        "https://proceedings.neurips.cc/paper/1996/file/a0833c8a1817526ac555f8d67727caf6-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/a0833c8a1817526ac555f8d67727caf6-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/a0833c8a1817526ac555f8d67727caf6-Paper.pdf"
+    ],
+    "Temporal Patterns of Activity in Neural Networks": [
+        "https://proceedings.neurips.cc/paper/1987/file/c51ce410c124a10e0db5e4b97fc2af39-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1987/file/c51ce410c124a10e0db5e4b97fc2af39-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1987/file/c51ce410c124a10e0db5e4b97fc2af39-Paper.pdf"
+    ],
+    "Statistical Prediction with Kanerva's Sparse Distributed Memory": [
+        "https://proceedings.neurips.cc/paper/1988/file/9b8619251a19057cff70779273e95aa6-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/9b8619251a19057cff70779273e95aa6-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/9b8619251a19057cff70779273e95aa6-Paper.pdf"
+    ],
+    "Reconstructing Stimulus Velocity from Neuronal Responses in Area MT": [
+        "https://proceedings.neurips.cc/paper/1996/file/2df45244f09369e16ea3f9117ca45157-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/2df45244f09369e16ea3f9117ca45157-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/2df45244f09369e16ea3f9117ca45157-Paper.pdf"
+    ],
+    "On-line Policy Improvement using Monte-Carlo Search": [
+        "https://proceedings.neurips.cc/paper/1996/file/996009f2374006606f4c0b0fda878af1-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/996009f2374006606f4c0b0fda878af1-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/996009f2374006606f4c0b0fda878af1-Paper.pdf"
+    ],
+    "Size of Multilayer Networks for Exact Learning: Analytic Approach": [
+        "https://proceedings.neurips.cc/paper/1996/file/d282ef263719ab842e05382dc235f69e-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/d282ef263719ab842e05382dc235f69e-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/d282ef263719ab842e05382dc235f69e-Paper.pdf"
+    ],
+    "Spatial Decorrelation in Orientation Tuned Cortical Cells": [
+        "https://proceedings.neurips.cc/paper/1996/file/5caf41d62364d5b41a893adc1a9dd5d4-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/5caf41d62364d5b41a893adc1a9dd5d4-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/5caf41d62364d5b41a893adc1a9dd5d4-Paper.pdf"
+    ],
+    "Rapid Visual Processing using Spike Asynchrony": [
+        "https://proceedings.neurips.cc/paper/1996/file/fd5c905bcd8c3348ad1b35d7231ee2b1-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/fd5c905bcd8c3348ad1b35d7231ee2b1-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/fd5c905bcd8c3348ad1b35d7231ee2b1-Paper.pdf"
+    ],
+    "Practical Confidence and Prediction Intervals": [
+        "https://proceedings.neurips.cc/paper/1996/file/7940ab47468396569a906f75ff3f20ef-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/7940ab47468396569a906f75ff3f20ef-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/7940ab47468396569a906f75ff3f20ef-Paper.pdf"
+    ],
+    "Noisy Spiking Neurons with Temporal Coding have more Computational Power than Sigmoidal Neurons": [
+        "https://proceedings.neurips.cc/paper/1996/file/f93882cbd8fc7fb794c1011d63be6fb6-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/f93882cbd8fc7fb794c1011d63be6fb6-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/f93882cbd8fc7fb794c1011d63be6fb6-Paper.pdf"
+    ],
+    "Softening Discrete Relaxation": [
+        "https://proceedings.neurips.cc/paper/1996/file/a0872cc5b5ca4cc25076f3d868e1bdf8-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/a0872cc5b5ca4cc25076f3d868e1bdf8-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/a0872cc5b5ca4cc25076f3d868e1bdf8-Paper.pdf"
+    ],
+    "Interpreting Images by Propagating Bayesian Beliefs": [
+        "https://proceedings.neurips.cc/paper/1996/file/4476b929e30dd0c4e8bdbcc82c6ba23a-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/4476b929e30dd0c4e8bdbcc82c6ba23a-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/4476b929e30dd0c4e8bdbcc82c6ba23a-Paper.pdf"
+    ],
+    "Modeling Small Oscillating Biological Networks in Analog VLSI": [
+        "https://proceedings.neurips.cc/paper/1988/file/1afa34a7f984eeabdbb0a7d494132ee5-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/1afa34a7f984eeabdbb0a7d494132ee5-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/1afa34a7f984eeabdbb0a7d494132ee5-Paper.pdf"
+    ],
+    "Salient Contour Extraction by Temporal Binding in a Cortically-based Network": [
+        "https://proceedings.neurips.cc/paper/1996/file/535ab76633d94208236a2e829ea6d888-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/535ab76633d94208236a2e829ea6d888-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/535ab76633d94208236a2e829ea6d888-Paper.pdf"
+    ],
+    "Consistent Classification, Firm and Soft": [
+        "https://proceedings.neurips.cc/paper/1996/file/7bb060764a818184ebb1cc0d43d382aa-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/7bb060764a818184ebb1cc0d43d382aa-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/7bb060764a818184ebb1cc0d43d382aa-Paper.pdf"
+    ],
+    "Statistically Efficient Estimations Using Cortical Lateral Connections": [
+        "https://proceedings.neurips.cc/paper/1996/file/f29b38f160f87ae86df31cee1982066f-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/f29b38f160f87ae86df31cee1982066f-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/f29b38f160f87ae86df31cee1982066f-Paper.pdf"
+    ],
+    "Interpolating Earth-science Data using RBF Networks and Mixtures of Experts": [
+        "https://proceedings.neurips.cc/paper/1996/file/f09696910bdd874a99cd74c8f05b5c44-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/f09696910bdd874a99cd74c8f05b5c44-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/f09696910bdd874a99cd74c8f05b5c44-Paper.pdf"
+    ],
+    "Smoothing Regularizers for Projective Basis Function Networks": [
+        "https://proceedings.neurips.cc/paper/1996/file/50905d7b2216bfeccb5b41016357176b-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/50905d7b2216bfeccb5b41016357176b-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/50905d7b2216bfeccb5b41016357176b-Paper.pdf"
+    ],
+    "One-unit Learning Rules for Independent Component Analysis": [
+        "https://proceedings.neurips.cc/paper/1996/file/dfd7468ac613286cdbb40872c8ef3b06-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/dfd7468ac613286cdbb40872c8ef3b06-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/dfd7468ac613286cdbb40872c8ef3b06-Paper.pdf"
+    ],
+    "Recursive Algorithms for Approximating Probabilities in Graphical Models": [
+        "https://proceedings.neurips.cc/paper/1996/file/f3f1b7fc5a8779a9e618e1f23a7b7860-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/f3f1b7fc5a8779a9e618e1f23a7b7860-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/f3f1b7fc5a8779a9e618e1f23a7b7860-Paper.pdf"
+    ],
+    "Exploiting Model Uncertainty Estimates for Safe Dynamic Control Learning": [
+        "https://proceedings.neurips.cc/paper/1996/file/93fb9d4b16aa750c7475b6d601c35c2c-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/93fb9d4b16aa750c7475b6d601c35c2c-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/93fb9d4b16aa750c7475b6d601c35c2c-Paper.pdf"
+    ],
+    "Triangulation by Continuous Embedding": [
+        "https://proceedings.neurips.cc/paper/1996/file/76cf99d3614e23eabab16fb27e944bf9-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/76cf99d3614e23eabab16fb27e944bf9-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/76cf99d3614e23eabab16fb27e944bf9-Paper.pdf"
+    ],
+    "Cholinergic Modulation Preserves Spike Timing Under Physiologically Realistic Fluctuating Input": [
+        "https://proceedings.neurips.cc/paper/1996/file/1ee3dfcd8a0645a25a35977997223d22-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/1ee3dfcd8a0645a25a35977997223d22-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/1ee3dfcd8a0645a25a35977997223d22-Paper.pdf"
+    ],
+    "Theory of Self-Organization of Cortical Maps": [
+        "https://proceedings.neurips.cc/paper/1988/file/65ded5353c5ee48d0b7d48c591b8f430-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/65ded5353c5ee48d0b7d48c591b8f430-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/65ded5353c5ee48d0b7d48c591b8f430-Paper.pdf"
+    ],
+    "An Orientation Selective Neural Network for Pattern Identification in Particle Detectors": [
+        "https://proceedings.neurips.cc/paper/1996/file/2a50e9c2d6b89b95bcb416d6857f8b45-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/2a50e9c2d6b89b95bcb416d6857f8b45-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/2a50e9c2d6b89b95bcb416d6857f8b45-Paper.pdf"
+    ],
+    "Edges are the 'Independent Components' of Natural Scenes.": [
+        "https://proceedings.neurips.cc/paper/1996/file/f9be311e65d81a9ad8150a60844bb94c-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/f9be311e65d81a9ad8150a60844bb94c-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/f9be311e65d81a9ad8150a60844bb94c-Paper.pdf"
+    ],
+    "A Spike Based Learning Neuron in Analog VLSI": [
+        "https://proceedings.neurips.cc/paper/1996/file/dc960c46c38bd16e953d97cdeefdbc68-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/dc960c46c38bd16e953d97cdeefdbc68-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/dc960c46c38bd16e953d97cdeefdbc68-Paper.pdf"
+    ],
+    "NeuroScale: Novel Topographic Feature Extraction using RBF Networks": [
+        "https://proceedings.neurips.cc/paper/1996/file/4671aeaf49c792689533b00664a5c3ef-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/4671aeaf49c792689533b00664a5c3ef-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/4671aeaf49c792689533b00664a5c3ef-Paper.pdf"
+    ],
+    "Probabilistic Interpretation of Population Codes": [
+        "https://proceedings.neurips.cc/paper/1996/file/bb7946e7d85c81a9e69fee1cea4a087c-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/bb7946e7d85c81a9e69fee1cea4a087c-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/bb7946e7d85c81a9e69fee1cea4a087c-Paper.pdf"
+    ],
+    "Combinations of Weak Classifiers": [
+        "https://proceedings.neurips.cc/paper/1996/file/3546ab441e56fa333f8b44b610d95691-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/3546ab441e56fa333f8b44b610d95691-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/3546ab441e56fa333f8b44b610d95691-Paper.pdf"
+    ],
+    "Estimating Equivalent Kernels for Neural Networks: A Data Perturbation Approach": [
+        "https://proceedings.neurips.cc/paper/1996/file/c70daf247944fe3add32218f914c75a6-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/c70daf247944fe3add32218f914c75a6-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/c70daf247944fe3add32218f914c75a6-Paper.pdf"
+    ],
+    "Compositionality, MDL Priors, and Object Recognition": [
+        "https://proceedings.neurips.cc/paper/1996/file/17fafe5f6ce2f1904eb09d2e80a4cbf6-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/17fafe5f6ce2f1904eb09d2e80a4cbf6-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/17fafe5f6ce2f1904eb09d2e80a4cbf6-Paper.pdf"
+    ],
+    "MIMIC: Finding Optima by Estimating Probability Densities": [
+        "https://proceedings.neurips.cc/paper/1996/file/4c22bd444899d3b6047a10b20a2f26db-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/4c22bd444899d3b6047a10b20a2f26db-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/4c22bd444899d3b6047a10b20a2f26db-Paper.pdf"
+    ],
+    "ARTEX: A Self-organizing Architecture for Classifying Image Regions": [
+        "https://proceedings.neurips.cc/paper/1996/file/01e9565cecc4e989123f9620c1d09c09-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/01e9565cecc4e989123f9620c1d09c09-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/01e9565cecc4e989123f9620c1d09c09-Paper.pdf"
+    ],
+    "A Back-Propagation Algorithm with Optimal Use of Hidden Units": [
+        "https://proceedings.neurips.cc/paper/1988/file/9fc3d7152ba9336a670e36d0ed79bc43-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/9fc3d7152ba9336a670e36d0ed79bc43-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/9fc3d7152ba9336a670e36d0ed79bc43-Paper.pdf"
+    ],
+    "Orientation Contrast Sensitivity from Long-range Interactions in Visual Cortex": [
+        "https://proceedings.neurips.cc/paper/1996/file/fe51510c80bfd6e5d78a164cd5b1f688-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1996/file/fe51510c80bfd6e5d78a164cd5b1f688-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1996/file/fe51510c80bfd6e5d78a164cd5b1f688-Paper.pdf"
+    ],
+    "Recovering Perspective Pose with a Dual Step EM Algorithm": [
+        "https://proceedings.neurips.cc/paper/1997/file/e077e1a544eec4f0307cf5c3c721d944-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/e077e1a544eec4f0307cf5c3c721d944-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/e077e1a544eec4f0307cf5c3c721d944-Paper.pdf"
+    ],
+    "Mapping a Manifold of Perceptual Observations": [
+        "https://proceedings.neurips.cc/paper/1997/file/28e209b61a52482a0ae1cb9f5959c792-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/28e209b61a52482a0ae1cb9f5959c792-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/28e209b61a52482a0ae1cb9f5959c792-Paper.pdf"
+    ],
+    "The Efficiency and the Robustness of Natural Gradient Descent Learning Rule": [
+        "https://proceedings.neurips.cc/paper/1997/file/ff49cc40a8890e6a60f40ff3026d2730-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/ff49cc40a8890e6a60f40ff3026d2730-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/ff49cc40a8890e6a60f40ff3026d2730-Paper.pdf"
+    ],
+    "Features as Sufficient Statistics": [
+        "https://proceedings.neurips.cc/paper/1997/file/8edd72158ccd2a879f79cb2538568fdc-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/8edd72158ccd2a879f79cb2538568fdc-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/8edd72158ccd2a879f79cb2538568fdc-Paper.pdf"
+    ],
+    "Training Methods for Adaptive Boosting of Neural Networks": [
+        "https://proceedings.neurips.cc/paper/1997/file/9cb67ffb59554ab1dabb65bcb370ddd9-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/9cb67ffb59554ab1dabb65bcb370ddd9-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/9cb67ffb59554ab1dabb65bcb370ddd9-Paper.pdf"
+    ],
+    "Minimax and Hamiltonian Dynamics of Excitatory-Inhibitory Networks": [
+        "https://proceedings.neurips.cc/paper/1997/file/3d779cae2d46cf6a8a99a35ba4167977-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/3d779cae2d46cf6a8a99a35ba4167977-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/3d779cae2d46cf6a8a99a35ba4167977-Paper.pdf"
+    ],
+    "Analog VLSI Model of Intersegmental Coordination with Nearest-Neighbor Coupling": [
+        "https://proceedings.neurips.cc/paper/1997/file/e48e13207341b6bffb7fb1622282247b-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/e48e13207341b6bffb7fb1622282247b-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/e48e13207341b6bffb7fb1622282247b-Paper.pdf"
+    ],
+    "Dynamic Stochastic Synapses as Computational Units": [
+        "https://proceedings.neurips.cc/paper/1997/file/05311655a15b75fab86956663e1819cd-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/05311655a15b75fab86956663e1819cd-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/05311655a15b75fab86956663e1819cd-Paper.pdf"
+    ],
+    "Modeling Acoustic Correlations by Factor Analysis": [
+        "https://proceedings.neurips.cc/paper/1997/file/d10ec7c16cbe9de8fbb1c42787c3ec26-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/d10ec7c16cbe9de8fbb1c42787c3ec26-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/d10ec7c16cbe9de8fbb1c42787c3ec26-Paper.pdf"
+    ],
+    "Efficient Parallel Learning Algorithms for Neural Networks": [
+        "https://proceedings.neurips.cc/paper/1988/file/02522a2b2726fb0a03bb19f2d8d9524d-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/02522a2b2726fb0a03bb19f2d8d9524d-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/02522a2b2726fb0a03bb19f2d8d9524d-Paper.pdf"
+    ],
+    "Generalization in Decision Trees and DNF: Does Size Matter?": [
+        "https://proceedings.neurips.cc/paper/1997/file/4f87658ef0de194413056248a00ce009-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/4f87658ef0de194413056248a00ce009-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/4f87658ef0de194413056248a00ce009-Paper.pdf"
+    ],
+    "Nonlinear Markov Networks for Continuous Variables": [
+        "https://proceedings.neurips.cc/paper/1997/file/33ebd5b07dc7e407752fe773eed20635-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/33ebd5b07dc7e407752fe773eed20635-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/33ebd5b07dc7e407752fe773eed20635-Paper.pdf"
+    ],
+    "Multiplicative Updating Rule for Blind Separation Derived from the Method of Scoring": [
+        "https://proceedings.neurips.cc/paper/1997/file/5e1b18c4c6a6d31695acbae3fd70ecc6-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/5e1b18c4c6a6d31695acbae3fd70ecc6-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/5e1b18c4c6a6d31695acbae3fd70ecc6-Paper.pdf"
+    ],
+    "Extended ICA Removes Artifacts from Electroencephalographic Recordings": [
+        "https://proceedings.neurips.cc/paper/1997/file/674bfc5f6b72706fb769f5e93667bd23-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/674bfc5f6b72706fb769f5e93667bd23-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/674bfc5f6b72706fb769f5e93667bd23-Paper.pdf"
+    ],
+    "Analytical Study of the Interplay between Architecture and Predictability": [
+        "https://proceedings.neurips.cc/paper/1997/file/a50abba8132a77191791390c3eb19fe7-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/a50abba8132a77191791390c3eb19fe7-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/a50abba8132a77191791390c3eb19fe7-Paper.pdf"
+    ],
+    "Multi-modular Associative Memory": [
+        "https://proceedings.neurips.cc/paper/1997/file/86109d400f0ed29e840b47ed72777c84-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/86109d400f0ed29e840b47ed72777c84-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/86109d400f0ed29e840b47ed72777c84-Paper.pdf"
+    ],
+    "A Framework for Multiple-Instance Learning": [
+        "https://proceedings.neurips.cc/paper/1997/file/82965d4ed8150294d4330ace00821d77-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/82965d4ed8150294d4330ace00821d77-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/82965d4ed8150294d4330ace00821d77-Paper.pdf"
+    ],
+    "Incorporating Test Inputs into Learning": [
+        "https://proceedings.neurips.cc/paper/1997/file/0e55666a4ad822e0e34299df3591d979-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/0e55666a4ad822e0e34299df3591d979-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/0e55666a4ad822e0e34299df3591d979-Paper.pdf"
+    ],
+    "A Solution for Missing Data in Recurrent Neural Networks with an Application to Blood Glucose Prediction": [
+        "https://proceedings.neurips.cc/paper/1997/file/c73dfe6c630edb4c1692db67c510f65c-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/c73dfe6c630edb4c1692db67c510f65c-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/c73dfe6c630edb4c1692db67c510f65c-Paper.pdf"
+    ],
+    "Learning to Schedule Straight-Line Code": [
+        "https://proceedings.neurips.cc/paper/1997/file/bcc0d400288793e8bdcd7c19a8ac0c2b-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/bcc0d400288793e8bdcd7c19a8ac0c2b-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/bcc0d400288793e8bdcd7c19a8ac0c2b-Paper.pdf"
+    ],
+    "A Connectionist Expert System that Actually Works": [
+        "https://proceedings.neurips.cc/paper/1988/file/7f1de29e6da19d22b51c68001e7e0e54-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/7f1de29e6da19d22b51c68001e7e0e54-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/7f1de29e6da19d22b51c68001e7e0e54-Paper.pdf"
+    ],
+    "Analysis of Drifting Dynamics with Neural Network Hidden Markov Models": [
+        "https://proceedings.neurips.cc/paper/1997/file/861dc9bd7f4e7dd3cccd534d0ae2a2e9-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/861dc9bd7f4e7dd3cccd534d0ae2a2e9-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/861dc9bd7f4e7dd3cccd534d0ae2a2e9-Paper.pdf"
+    ],
+    "2D Observers for Human 3D Object Recognition?": [
+        "https://proceedings.neurips.cc/paper/1997/file/3e313b9badf12632cdae5452d20e1af6-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/3e313b9badf12632cdae5452d20e1af6-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/3e313b9badf12632cdae5452d20e1af6-Paper.pdf"
+    ],
+    "A Simple and Fast Neural Network Approach to Stereovision": [
+        "https://proceedings.neurips.cc/paper/1997/file/8b0dc65f996f98fd178a9defd0efa077-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/8b0dc65f996f98fd178a9defd0efa077-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/8b0dc65f996f98fd178a9defd0efa077-Paper.pdf"
+    ],
+    "Stacked Density Estimation": [
+        "https://proceedings.neurips.cc/paper/1997/file/ee8374ec4e4ad797d42350c904d73077-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/ee8374ec4e4ad797d42350c904d73077-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/ee8374ec4e4ad797d42350c904d73077-Paper.pdf"
+    ],
+    "Phase Transitions and the Perceptual Organization of Video Sequences": [
+        "https://proceedings.neurips.cc/paper/1997/file/af4732711661056eadbf798ba191272a-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/af4732711661056eadbf798ba191272a-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/af4732711661056eadbf798ba191272a-Paper.pdf"
+    ],
+    "A Neural Network Model of Naive Preference and Filial Imprinting in the Domestic Chick": [
+        "https://proceedings.neurips.cc/paper/1997/file/b8c27b7a1c450ffdacb31483454e0b54-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/b8c27b7a1c450ffdacb31483454e0b54-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/b8c27b7a1c450ffdacb31483454e0b54-Paper.pdf"
+    ],
+    "On Parallel versus Serial Processing: A Computational Study of Visual Search": [
+        "https://proceedings.neurips.cc/paper/1997/file/980ecd059122ce2e50136bda65c25e07-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/980ecd059122ce2e50136bda65c25e07-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/980ecd059122ce2e50136bda65c25e07-Paper.pdf"
+    ],
+    "The Canonical Distortion Measure in Feature Space and 1-NN Classification": [
+        "https://proceedings.neurips.cc/paper/1997/file/c26820b8a4c1b3c2aa868d6d57e14a79-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/c26820b8a4c1b3c2aa868d6d57e14a79-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/c26820b8a4c1b3c2aa868d6d57e14a79-Paper.pdf"
+    ],
+    "Monotonic Networks": [
+        "https://proceedings.neurips.cc/paper/1997/file/83adc9225e4deb67d7ce42d58fe5157c-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/83adc9225e4deb67d7ce42d58fe5157c-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/83adc9225e4deb67d7ce42d58fe5157c-Paper.pdf"
+    ],
+    "Data-Dependent Structural Risk Minimization for Perceptron Decision Trees": [
+        "https://proceedings.neurips.cc/paper/1997/file/8d3369c4c086f236fabf61d614a32818-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/8d3369c4c086f236fabf61d614a32818-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/8d3369c4c086f236fabf61d614a32818-Paper.pdf"
+    ],
+    "Automatic Local Annealing": [
+        "https://proceedings.neurips.cc/paper/1988/file/42a0e188f5033bc65bf8d78622277c4e-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/42a0e188f5033bc65bf8d78622277c4e-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/42a0e188f5033bc65bf8d78622277c4e-Paper.pdf"
+    ],
+    "Silicon Retina with Adaptive Filtering Properties": [
+        "https://proceedings.neurips.cc/paper/1997/file/fb508ef074ee78a0e58c68be06d8a2eb-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/fb508ef074ee78a0e58c68be06d8a2eb-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/fb508ef074ee78a0e58c68be06d8a2eb-Paper.pdf"
+    ],
+    "Recurrent Neural Networks Can Learn to Implement Symbol-Sensitive Counting": [
+        "https://proceedings.neurips.cc/paper/1997/file/cf9a242b70f45317ffd281241fa66502-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/cf9a242b70f45317ffd281241fa66502-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/cf9a242b70f45317ffd281241fa66502-Paper.pdf"
+    ],
+    "Multi-time Models for Temporally Abstract Planning": [
+        "https://proceedings.neurips.cc/paper/1997/file/a9be4c2a4041cadbf9d61ae16dd1389e-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/a9be4c2a4041cadbf9d61ae16dd1389e-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/a9be4c2a4041cadbf9d61ae16dd1389e-Paper.pdf"
+    ],
+    "Active Data Clustering": [
+        "https://proceedings.neurips.cc/paper/1997/file/9683cc5f89562ea48e72bb321d9f03fb-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/9683cc5f89562ea48e72bb321d9f03fb-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/9683cc5f89562ea48e72bb321d9f03fb-Paper.pdf"
+    ],
+    "An Analog VLSI Neural Network for Phase-based Machine Vision": [
+        "https://proceedings.neurips.cc/paper/1997/file/effc299a1addb07e7089f9b269c31f2f-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/effc299a1addb07e7089f9b269c31f2f-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/effc299a1addb07e7089f9b269c31f2f-Paper.pdf"
+    ],
+    "Toward a Single-Cell Account for Binocular Disparity Tuning: An Energy Model May Be Hiding in Your Dendrites": [
+        "https://proceedings.neurips.cc/paper/1997/file/cf1f78fe923afe05f7597da2be7a3da8-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/cf1f78fe923afe05f7597da2be7a3da8-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/cf1f78fe923afe05f7597da2be7a3da8-Paper.pdf"
+    ],
+    "Blind Separation of Radio Signals in Fading Channels": [
+        "https://proceedings.neurips.cc/paper/1997/file/6a5889bb0190d0211a991f47bb19a777-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/6a5889bb0190d0211a991f47bb19a777-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/6a5889bb0190d0211a991f47bb19a777-Paper.pdf"
+    ],
+    "An Analog VLSI Model of the Fly Elementary Motion Detector": [
+        "https://proceedings.neurips.cc/paper/1997/file/a223c6b3710f85df22e9377d6c4f7553-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/a223c6b3710f85df22e9377d6c4f7553-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/a223c6b3710f85df22e9377d6c4f7553-Paper.pdf"
+    ],
+    "Computing with Action Potentials": [
+        "https://proceedings.neurips.cc/paper/1997/file/6c1da886822c67822bcf3679d04369fa-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/6c1da886822c67822bcf3679d04369fa-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/6c1da886822c67822bcf3679d04369fa-Paper.pdf"
+    ],
+    "Learning Continuous Attractors in Recurrent Networks": [
+        "https://proceedings.neurips.cc/paper/1997/file/0e3a37aa85a14e359df74fa77eded3f6-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/0e3a37aa85a14e359df74fa77eded3f6-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/0e3a37aa85a14e359df74fa77eded3f6-Paper.pdf"
+    ],
+    "An Electronic Photoreceptor Sensitive to Small Changes in Intensity": [
+        "https://proceedings.neurips.cc/paper/1988/file/3988c7f88ebcb58c6ce932b957b6f332-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/3988c7f88ebcb58c6ce932b957b6f332-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/3988c7f88ebcb58c6ce932b957b6f332-Paper.pdf"
+    ],
+    "MELONET I: Neural Nets for Inventing Baroque-Style Chorale Variations": [
+        "https://proceedings.neurips.cc/paper/1997/file/d1ee59e20ad01cedc15f5118a7626099-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/d1ee59e20ad01cedc15f5118a7626099-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/d1ee59e20ad01cedc15f5118a7626099-Paper.pdf"
+    ],
+    "Detection of First and Second Order Motion": [
+        "https://proceedings.neurips.cc/paper/1997/file/81ca0262c82e712e50c580c032d99b60-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/81ca0262c82e712e50c580c032d99b60-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/81ca0262c82e712e50c580c032d99b60-Paper.pdf"
+    ],
+    "From Regularization Operators to Support Vector Kernels": [
+        "https://proceedings.neurips.cc/paper/1997/file/f3bd5ad57c8389a8a1a541a76be463bf-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/f3bd5ad57c8389a8a1a541a76be463bf-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/f3bd5ad57c8389a8a1a541a76be463bf-Paper.pdf"
+    ],
+    "Globally Optimal On-line Learning Rules": [
+        "https://proceedings.neurips.cc/paper/1997/file/e56b06c51e1049195d7b26d043c478a0-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/e56b06c51e1049195d7b26d043c478a0-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/e56b06c51e1049195d7b26d043c478a0-Paper.pdf"
+    ],
+    "Just One View: Invariances in Inferotemporal Cell Tuning": [
+        "https://proceedings.neurips.cc/paper/1997/file/792c7b5aae4a79e78aaeda80516ae2ac-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/792c7b5aae4a79e78aaeda80516ae2ac-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/792c7b5aae4a79e78aaeda80516ae2ac-Paper.pdf"
+    ],
+    "Classification by Pairwise Coupling": [
+        "https://proceedings.neurips.cc/paper/1997/file/70feb62b69f16e0238f741fab228fec2-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/70feb62b69f16e0238f741fab228fec2-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/70feb62b69f16e0238f741fab228fec2-Paper.pdf"
+    ],
+    "Agnostic Classification of Markovian Sequences": [
+        "https://proceedings.neurips.cc/paper/1997/file/79a49b3e3762632813f9e35f4ba53d6c-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/79a49b3e3762632813f9e35f4ba53d6c-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/79a49b3e3762632813f9e35f4ba53d6c-Paper.pdf"
+    ],
+    "Bidirectional Retrieval from Associative Memory": [
+        "https://proceedings.neurips.cc/paper/1997/file/f52378e14237225a6f6c7d802dc6abbd-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/f52378e14237225a6f6c7d802dc6abbd-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/f52378e14237225a6f6c7d802dc6abbd-Paper.pdf"
+    ],
+    "Using Expectation to Guide Processing: A Study of Three Real-World Applications": [
+        "https://proceedings.neurips.cc/paper/1997/file/8d9a0adb7c204239c9635426f35c9522-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/8d9a0adb7c204239c9635426f35c9522-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/8d9a0adb7c204239c9635426f35c9522-Paper.pdf"
+    ],
+    "Shared Context Probabilistic Transducers": [
+        "https://proceedings.neurips.cc/paper/1997/file/bad5f33780c42f2588878a9d07405083-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/bad5f33780c42f2588878a9d07405083-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/bad5f33780c42f2588878a9d07405083-Paper.pdf"
+    ],
+    "Modeling the Olfactory Bulb - Coupled Nonlinear Oscillators": [
+        "https://proceedings.neurips.cc/paper/1988/file/013d407166ec4fa56eb1e1f8cbe183b9-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/013d407166ec4fa56eb1e1f8cbe183b9-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/013d407166ec4fa56eb1e1f8cbe183b9-Paper.pdf"
+    ],
+    "Estimating Dependency Structure as a Hidden Variable": [
+        "https://proceedings.neurips.cc/paper/1997/file/ea8fcd92d59581717e06eb187f10666d-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/ea8fcd92d59581717e06eb187f10666d-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/ea8fcd92d59581717e06eb187f10666d-Paper.pdf"
+    ],
+    "Hippocampal Model of Rat Spatial Abilities Using Temporal Difference Learning": [
+        "https://proceedings.neurips.cc/paper/1997/file/d82118376df344b0010f53909b961db3-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/d82118376df344b0010f53909b961db3-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/d82118376df344b0010f53909b961db3-Paper.pdf"
+    ],
+    "Reinforcement Learning for Call Admission Control and Routing in Integrated Service Networks": [
+        "https://proceedings.neurips.cc/paper/1997/file/4e0d67e54ad6626e957d15b08ae128a6-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/4e0d67e54ad6626e957d15b08ae128a6-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/4e0d67e54ad6626e957d15b08ae128a6-Paper.pdf"
+    ],
+    "The Asymptotic Convergence-Rate of Q-learning": [
+        "https://proceedings.neurips.cc/paper/1997/file/cd0dce8fca267bf1fb86cf43e18d5598-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/cd0dce8fca267bf1fb86cf43e18d5598-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/cd0dce8fca267bf1fb86cf43e18d5598-Paper.pdf"
+    ],
+    "Reinforcement Learning with Hierarchies of Machines": [
+        "https://proceedings.neurips.cc/paper/1997/file/5ca3e9b122f61f8f06494c97b1afccf3-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/5ca3e9b122f61f8f06494c97b1afccf3-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf"
+    ],
+    "The Observer-Observation Dilemma in Neuro-Forecasting": [
+        "https://proceedings.neurips.cc/paper/1997/file/86e8f7ab32cfd12577bc2619bc635690-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/86e8f7ab32cfd12577bc2619bc635690-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/86e8f7ab32cfd12577bc2619bc635690-Paper.pdf"
+    ],
+    "Automated Aircraft Recovery via Reinforcement Learning: Initial Experiments": [
+        "https://proceedings.neurips.cc/paper/1997/file/363763e5c3dc3a68b399058c34aecf2c-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/363763e5c3dc3a68b399058c34aecf2c-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/363763e5c3dc3a68b399058c34aecf2c-Paper.pdf"
+    ],
+    "Local Dimensionality Reduction": [
+        "https://proceedings.neurips.cc/paper/1997/file/4fa7c62536118cc404dec4a0ca88d4f6-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/4fa7c62536118cc404dec4a0ca88d4f6-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/4fa7c62536118cc404dec4a0ca88d4f6-Paper.pdf"
+    ],
+    "On Efficient Heuristic Ranking of Hypotheses": [
+        "https://proceedings.neurips.cc/paper/1997/file/0c0a7566915f4f24853fc4192689aa7e-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/0c0a7566915f4f24853fc4192689aa7e-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/0c0a7566915f4f24853fc4192689aa7e-Paper.pdf"
+    ],
+    "Serial Order in Reading Aloud: Connectionist Models and Neighborhood Structure": [
+        "https://proceedings.neurips.cc/paper/1997/file/2bd7f907b7f5b6bbd91822c0c7b835f6-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/2bd7f907b7f5b6bbd91822c0c7b835f6-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/2bd7f907b7f5b6bbd91822c0c7b835f6-Paper.pdf"
+    ],
+    "An Optimality Principle for Unsupervised Learning": [
+        "https://proceedings.neurips.cc/paper/1988/file/e00da03b685a0dd18fb6a08af0923de0-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/e00da03b685a0dd18fb6a08af0923de0-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/e00da03b685a0dd18fb6a08af0923de0-Paper.pdf"
+    ],
+    "On-line Learning from Finite Training Sets in Nonlinear Networks": [
+        "https://proceedings.neurips.cc/paper/1997/file/359f38463d487e9e29bd20e24f0c050a-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/359f38463d487e9e29bd20e24f0c050a-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/359f38463d487e9e29bd20e24f0c050a-Paper.pdf"
+    ],
+    "Effects of Spike Timing Underlying Binocular Integration and Rivalry in a Neural Model of Early Visual Cortex": [
+        "https://proceedings.neurips.cc/paper/1997/file/7f53f8c6c730af6aeb52e66eb74d8507-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/7f53f8c6c730af6aeb52e66eb74d8507-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/7f53f8c6c730af6aeb52e66eb74d8507-Paper.pdf"
+    ],
+    "Approximating Posterior Distributions in Belief Networks Using Mixtures": [
+        "https://proceedings.neurips.cc/paper/1997/file/c0826819636026dd1f3674774f06c51d-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/c0826819636026dd1f3674774f06c51d-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/c0826819636026dd1f3674774f06c51d-Paper.pdf"
+    ],
+    "Comparison of Human and Machine Word Recognition": [
+        "https://proceedings.neurips.cc/paper/1997/file/ad3019b856147c17e82a5bead782d2a8-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/ad3019b856147c17e82a5bead782d2a8-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/ad3019b856147c17e82a5bead782d2a8-Paper.pdf"
+    ],
+    "Combining Classifiers Using Correspondence Analysis": [
+        "https://proceedings.neurips.cc/paper/1997/file/f016e59c7ad8b1d72903bb1aa5720d53-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/f016e59c7ad8b1d72903bb1aa5720d53-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/f016e59c7ad8b1d72903bb1aa5720d53-Paper.pdf"
+    ],
+    "A 1, 000-Neuron System with One Million 7-bit Physical Interconnections": [
+        "https://proceedings.neurips.cc/paper/1997/file/14d9e8007c9b41f57891c48e07c23f57-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/14d9e8007c9b41f57891c48e07c23f57-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/14d9e8007c9b41f57891c48e07c23f57-Paper.pdf"
+    ],
+    "Multiple Threshold Neural Logic": [
+        "https://proceedings.neurips.cc/paper/1997/file/0966289037ad9846c5e994be2a91bafa-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/0966289037ad9846c5e994be2a91bafa-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/0966289037ad9846c5e994be2a91bafa-Paper.pdf"
+    ],
+    "Function Approximation with the Sweeping Hinge Algorithm": [
+        "https://proceedings.neurips.cc/paper/1997/file/215a71a12769b056c3c32e7299f1c5ed-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/215a71a12769b056c3c32e7299f1c5ed-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/215a71a12769b056c3c32e7299f1c5ed-Paper.pdf"
+    ],
+    "EM Algorithms for PCA and SPCA": [
+        "https://proceedings.neurips.cc/paper/1997/file/d9731321ef4e063ebbee79298fa36f56-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/d9731321ef4e063ebbee79298fa36f56-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/d9731321ef4e063ebbee79298fa36f56-Paper.pdf"
+    ],
+    "Task and Spatial Frequency Effects on Face Specialization": [
+        "https://proceedings.neurips.cc/paper/1997/file/602d1305678a8d5fdb372271e980da6a-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/602d1305678a8d5fdb372271e980da6a-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/602d1305678a8d5fdb372271e980da6a-Paper.pdf"
+    ],
+    "Encoding Geometric Invariances in Higher-Order Neural Networks": [
+        "https://proceedings.neurips.cc/paper/1987/file/aab3238922bcc25a6f606eb525ffdc56-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1987/file/aab3238922bcc25a6f606eb525ffdc56-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1987/file/aab3238922bcc25a6f606eb525ffdc56-Paper.pdf"
+    ],
+    "Associative Learning via Inhibitory Search": [
+        "https://proceedings.neurips.cc/paper/1988/file/1385974ed5904a438616ff7bdb3f7439-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/1385974ed5904a438616ff7bdb3f7439-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/1385974ed5904a438616ff7bdb3f7439-Paper.pdf"
+    ],
+    "Synchronized Auditory and Cognitive 40 Hz Attentional Streams, and the Impact of Rhythmic Expectation on Auditory Scene Analysis": [
+        "https://proceedings.neurips.cc/paper/1997/file/f0dd4a99fba6075a9494772b58f95280-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/f0dd4a99fba6075a9494772b58f95280-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/f0dd4a99fba6075a9494772b58f95280-Paper.pdf"
+    ],
+    "Coding of Naturalistic Stimuli by Auditory Midbrain Neurons": [
+        "https://proceedings.neurips.cc/paper/1997/file/9701a1c165dd9420816bfec5edd6c2b1-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/9701a1c165dd9420816bfec5edd6c2b1-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/9701a1c165dd9420816bfec5edd6c2b1-Paper.pdf"
+    ],
+    "The Rectified Gaussian Distribution": [
+        "https://proceedings.neurips.cc/paper/1997/file/28fc2782ea7ef51c1104ccf7b9bea13d-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/28fc2782ea7ef51c1104ccf7b9bea13d-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/28fc2782ea7ef51c1104ccf7b9bea13d-Paper.pdf"
+    ],
+    "Modeling Complex Cells in an Awake Macaque during Natural Image Viewing": [
+        "https://proceedings.neurips.cc/paper/1997/file/4edaa105d5f53590338791951e38c3ad-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/4edaa105d5f53590338791951e38c3ad-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/4edaa105d5f53590338791951e38c3ad-Paper.pdf"
+    ],
+    "Reinforcement Learning for Continuous Stochastic Control Problems": [
+        "https://proceedings.neurips.cc/paper/1997/file/186a157b2992e7daed3677ce8e9fe40f-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/186a157b2992e7daed3677ce8e9fe40f-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/186a157b2992e7daed3677ce8e9fe40f-Paper.pdf"
+    ],
+    "Hybrid NN/HMM-Based Speech Recognition with a Discriminant Neural Feature Extraction": [
+        "https://proceedings.neurips.cc/paper/1997/file/3de2334a314a7a72721f1f74a6cb4cee-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/3de2334a314a7a72721f1f74a6cb4cee-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/3de2334a314a7a72721f1f74a6cb4cee-Paper.pdf"
+    ],
+    "Bayesian Robustification for Audio Visual Fusion": [
+        "https://proceedings.neurips.cc/paper/1997/file/b7087c1f4f89e63af8d46f3b20271153-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/b7087c1f4f89e63af8d46f3b20271153-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/b7087c1f4f89e63af8d46f3b20271153-Paper.pdf"
+    ],
+    "Use of a Multi-Layer Perceptron to Predict Malignancy in Ovarian Tumors": [
+        "https://proceedings.neurips.cc/paper/1997/file/46771d1f432b42343f56f791422a4991-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/46771d1f432b42343f56f791422a4991-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/46771d1f432b42343f56f791422a4991-Paper.pdf"
+    ],
+    "New Approximations of Differential Entropy for Independent Component Analysis and Projection Pursuit": [
+        "https://proceedings.neurips.cc/paper/1997/file/6d9c547cf146054a5a720606a7694467-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/6d9c547cf146054a5a720606a7694467-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/6d9c547cf146054a5a720606a7694467-Paper.pdf"
+    ],
+    "Generalized Prioritized Sweeping": [
+        "https://proceedings.neurips.cc/paper/1997/file/7b5b23f4aadf9513306bcd59afb6e4c9-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/7b5b23f4aadf9513306bcd59afb6e4c9-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/7b5b23f4aadf9513306bcd59afb6e4c9-Paper.pdf"
+    ],
+    "Speech Production Using A Neural Network with a Cooperative Learning Mechanism": [
+        "https://proceedings.neurips.cc/paper/1988/file/0f28b5d49b3020afeecd95b4009adf4c-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/0f28b5d49b3020afeecd95b4009adf4c-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/0f28b5d49b3020afeecd95b4009adf4c-Paper.pdf"
+    ],
+    "A Mathematical Model of Axon Guidance by Diffusible Factors": [
+        "https://proceedings.neurips.cc/paper/1997/file/512c5cad6c37edb98ae91c8a76c3a291-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/512c5cad6c37edb98ae91c8a76c3a291-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/512c5cad6c37edb98ae91c8a76c3a291-Paper.pdf"
+    ],
+    "Instabilities in Eye Movement Control: A Model of Periodic Alternating Nystagmus": [
+        "https://proceedings.neurips.cc/paper/1997/file/54072f485cdb7897ebbcaf7525139561-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/54072f485cdb7897ebbcaf7525139561-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/54072f485cdb7897ebbcaf7525139561-Paper.pdf"
+    ],
+    "Boltzmann Machine Learning Using Mean Field Theory and Linear Response Correction": [
+        "https://proceedings.neurips.cc/paper/1997/file/0e4e946668cf2afc4299b462b812caca-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/0e4e946668cf2afc4299b462b812caca-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/0e4e946668cf2afc4299b462b812caca-Paper.pdf"
+    ],
+    "Selecting Weighting Factors in Logarithmic Opinion Pools": [
+        "https://proceedings.neurips.cc/paper/1997/file/59f51fd6937412b7e56ded1ea2470c25-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/59f51fd6937412b7e56ded1ea2470c25-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/59f51fd6937412b7e56ded1ea2470c25-Paper.pdf"
+    ],
+    "Visual Navigation in a Robot Using Zig-Zag Behavior": [
+        "https://proceedings.neurips.cc/paper/1997/file/7a674153c63cff1ad7f0e261c369ab2c-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/7a674153c63cff1ad7f0e261c369ab2c-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/7a674153c63cff1ad7f0e261c369ab2c-Paper.pdf"
+    ],
+    "A Hippocampal Model of Recognition Memory": [
+        "https://proceedings.neurips.cc/paper/1997/file/a60937eba57758ed45b6d3e91e8659f3-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/a60937eba57758ed45b6d3e91e8659f3-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/a60937eba57758ed45b6d3e91e8659f3-Paper.pdf"
+    ],
+    "Correlates of Attention in a Model of Dynamic Visual Recognition": [
+        "https://proceedings.neurips.cc/paper/1997/file/23ad3e314e2a2b43b4c720507cec0723-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/23ad3e314e2a2b43b4c720507cec0723-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/23ad3e314e2a2b43b4c720507cec0723-Paper.pdf"
+    ],
+    "S-Map: A Network with a Simple Self-Organization Algorithm for Generative Topographic Mappings": [
+        "https://proceedings.neurips.cc/paper/1997/file/9a1756fd0c741126d7bbd4b692ccbd91-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/9a1756fd0c741126d7bbd4b692ccbd91-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/9a1756fd0c741126d7bbd4b692ccbd91-Paper.pdf"
+    ],
+    "An Incremental Nearest Neighbor Algorithm with Queries": [
+        "https://proceedings.neurips.cc/paper/1997/file/309928d4b100a5d75adff48a9bfc1ddb-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/309928d4b100a5d75adff48a9bfc1ddb-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/309928d4b100a5d75adff48a9bfc1ddb-Paper.pdf"
+    ],
+    "Competitive On-line Linear Regression": [
+        "https://proceedings.neurips.cc/paper/1997/file/30c8e1ca872524fbf7ea5c519ca397ee-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/30c8e1ca872524fbf7ea5c519ca397ee-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/30c8e1ca872524fbf7ea5c519ca397ee-Paper.pdf"
+    ],
+    "Connectionist Learning of Expert Preferences by Comparison Training": [
+        "https://proceedings.neurips.cc/paper/1988/file/a8baa56554f96369ab93e4f3bb068c22-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/a8baa56554f96369ab93e4f3bb068c22-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/a8baa56554f96369ab93e4f3bb068c22-Paper.pdf"
+    ],
+    "How to Dynamically Merge Markov Decision Processes": [
+        "https://proceedings.neurips.cc/paper/1997/file/90db9da4fc5414ab55a9fe495d555c06-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/90db9da4fc5414ab55a9fe495d555c06-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/90db9da4fc5414ab55a9fe495d555c06-Paper.pdf"
+    ],
+    "Bayesian Model of Surface Perception": [
+        "https://proceedings.neurips.cc/paper/1997/file/9aa42b31882ec039965f3c4923ce901b-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/9aa42b31882ec039965f3c4923ce901b-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf"
+    ],
+    "An Application of Reversible-Jump MCMC to Multivariate Spherical Gaussian Mixtures": [
+        "https://proceedings.neurips.cc/paper/1997/file/0ed9422357395a0d4879191c66f4faa2-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/0ed9422357395a0d4879191c66f4faa2-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/0ed9422357395a0d4879191c66f4faa2-Paper.pdf"
+    ],
+    "Gradients for Retinotectal Mapping": [
+        "https://proceedings.neurips.cc/paper/1997/file/856fc81623da2150ba2210ba1b51d241-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/856fc81623da2150ba2210ba1b51d241-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/856fc81623da2150ba2210ba1b51d241-Paper.pdf"
+    ],
+    "Learning Nonlinear Overcomplete Representations for Efficient Coding": [
+        "https://proceedings.neurips.cc/paper/1997/file/489d0396e6826eb0c1e611d82ca8b215-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/489d0396e6826eb0c1e611d82ca8b215-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/489d0396e6826eb0c1e611d82ca8b215-Paper.pdf"
+    ],
+    "Experiences with Bayesian Learning in a Real World Application": [
+        "https://proceedings.neurips.cc/paper/1997/file/a424ed4bd3a7d6aea720b86d4a360f75-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/a424ed4bd3a7d6aea720b86d4a360f75-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/a424ed4bd3a7d6aea720b86d4a360f75-Paper.pdf"
+    ],
+    "RCC Cannot Compute Certain FSA, Even with Arbitrary Transfer Functions": [
+        "https://proceedings.neurips.cc/paper/1997/file/299fb2142d7de959380f91c01c3a293c-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/299fb2142d7de959380f91c01c3a293c-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/299fb2142d7de959380f91c01c3a293c-Paper.pdf"
+    ],
+    "Enhancing Q-Learning for Optimal Asset Allocation": [
+        "https://proceedings.neurips.cc/paper/1997/file/970af30e481057c48f87e101b61e6994-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/970af30e481057c48f87e101b61e6994-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/970af30e481057c48f87e101b61e6994-Paper.pdf"
+    ],
+    "Modelling Seasonality and Trends in Daily Rainfall Data": [
+        "https://proceedings.neurips.cc/paper/1997/file/56352739f59643540a3a6e16985f62c7-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/56352739f59643540a3a6e16985f62c7-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/56352739f59643540a3a6e16985f62c7-Paper.pdf"
+    ],
+    "Temporal Representations in a Connectionist Speech System": [
+        "https://proceedings.neurips.cc/paper/1988/file/903ce9225fca3e988c2af215d4e544d3-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/903ce9225fca3e988c2af215d4e544d3-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/903ce9225fca3e988c2af215d4e544d3-Paper.pdf"
+    ],
+    "Perturbative M-Sequences for Auditory Systems Identification": [
+        "https://proceedings.neurips.cc/paper/1997/file/411ae1bf081d1674ca6091f8c59a266f-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/411ae1bf081d1674ca6091f8c59a266f-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/411ae1bf081d1674ca6091f8c59a266f-Paper.pdf"
+    ],
+    "Learning to Order Things": [
+        "https://proceedings.neurips.cc/paper/1997/file/e11943a6031a0e6114ae69c257617980-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/e11943a6031a0e6114ae69c257617980-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/e11943a6031a0e6114ae69c257617980-Paper.pdf"
+    ],
+    "The Storage Capacity of a Fully-Connected Committee Machine": [
+        "https://proceedings.neurips.cc/paper/1997/file/56468d5607a5aaf1604ff5e15593b003-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/56468d5607a5aaf1604ff5e15593b003-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/56468d5607a5aaf1604ff5e15593b003-Paper.pdf"
+    ],
+    "A Generic Approach for Identification of Event Related Brain Potentials via a Competitive Neural Network Structure": [
+        "https://proceedings.neurips.cc/paper/1997/file/b069b3415151fa7217e870017374de7c-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/b069b3415151fa7217e870017374de7c-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/b069b3415151fa7217e870017374de7c-Paper.pdf"
+    ],
+    "Hybrid Reinforcement Learning and Its Application to Biped Robot Control": [
+        "https://proceedings.neurips.cc/paper/1997/file/7895fc13088ee37f511913bac71fa66f-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/7895fc13088ee37f511913bac71fa66f-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/7895fc13088ee37f511913bac71fa66f-Paper.pdf"
+    ],
+    "Incorporating Contextual Information in White Blood Cell Identification": [
+        "https://proceedings.neurips.cc/paper/1997/file/1f3202d820180a39f736f20fce790de8-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/1f3202d820180a39f736f20fce790de8-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/1f3202d820180a39f736f20fce790de8-Paper.pdf"
+    ],
+    "Ensemble and Modular Approaches for Face Detection: A Comparison": [
+        "https://proceedings.neurips.cc/paper/1997/file/eaa32c96f620053cf442ad32258076b9-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/eaa32c96f620053cf442ad32258076b9-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/eaa32c96f620053cf442ad32258076b9-Paper.pdf"
+    ],
+    "Wavelet Models for Video Time-Series": [
+        "https://proceedings.neurips.cc/paper/1997/file/a8f8f60264024dca151f164729b76c0b-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/a8f8f60264024dca151f164729b76c0b-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/a8f8f60264024dca151f164729b76c0b-Paper.pdf"
+    ],
+    "Learning Path Distributions Using Nonequilibrium Diffusion Networks": [
+        "https://proceedings.neurips.cc/paper/1997/file/db6ebd0566994d14a1767f14eb6fba81-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/db6ebd0566994d14a1767f14eb6fba81-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/db6ebd0566994d14a1767f14eb6fba81-Paper.pdf"
+    ],
+    "Neural Basis of Object-Centered Representations": [
+        "https://proceedings.neurips.cc/paper/1997/file/540ae6b0f6ac6e155062f3dd4f0b2b01-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/540ae6b0f6ac6e155062f3dd4f0b2b01-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/540ae6b0f6ac6e155062f3dd4f0b2b01-Paper.pdf"
+    ],
+    "A Passive Shared Element Analog Electrical Cochlea": [
+        "https://proceedings.neurips.cc/paper/1988/file/0a09c8844ba8f0936c20bd791130d6b6-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/0a09c8844ba8f0936c20bd791130d6b6-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/0a09c8844ba8f0936c20bd791130d6b6-Paper.pdf"
+    ],
+    "Two Approaches to Optimal Annealing": [
+        "https://proceedings.neurips.cc/paper/1997/file/f4a331b7a22d1b237565d8813a34d8ac-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/f4a331b7a22d1b237565d8813a34d8ac-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/f4a331b7a22d1b237565d8813a34d8ac-Paper.pdf"
+    ],
+    "On the Infeasibility of Training Neural Networks with Small Squared Errors": [
+        "https://proceedings.neurips.cc/paper/1997/file/b197ffdef2ddc3308584dce7afa3661b-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/b197ffdef2ddc3308584dce7afa3661b-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/b197ffdef2ddc3308584dce7afa3661b-Paper.pdf"
+    ],
+    "Using Helmholtz Machines to Analyze Multi-channel Neuronal Recordings": [
+        "https://proceedings.neurips.cc/paper/1997/file/f69e505b08403ad2298b9f262659929a-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/f69e505b08403ad2298b9f262659929a-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/f69e505b08403ad2298b9f262659929a-Paper.pdf"
+    ],
+    "An Annealed Self-Organizing Map for Source Channel Coding": [
+        "https://proceedings.neurips.cc/paper/1997/file/8fb5f8be2aa9d6c64a04e3ab9f63feee-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/8fb5f8be2aa9d6c64a04e3ab9f63feee-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/8fb5f8be2aa9d6c64a04e3ab9f63feee-Paper.pdf"
+    ],
+    "Regression with Input-dependent Noise: A Gaussian Process Treatment": [
+        "https://proceedings.neurips.cc/paper/1997/file/afe434653a898da20044041262b3ac74-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/afe434653a898da20044041262b3ac74-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/afe434653a898da20044041262b3ac74-Paper.pdf"
+    ],
+    "Structure Driven Image Database Retrieval": [
+        "https://proceedings.neurips.cc/paper/1997/file/b265ce60fe4c5384e622b09eb829b8df-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/b265ce60fe4c5384e622b09eb829b8df-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/b265ce60fe4c5384e622b09eb829b8df-Paper.pdf"
+    ],
+    "Factorizing Multivariate Function Classes": [
+        "https://proceedings.neurips.cc/paper/1997/file/8fb21ee7a2207526da55a679f0332de2-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/8fb21ee7a2207526da55a679f0332de2-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/8fb21ee7a2207526da55a679f0332de2-Paper.pdf"
+    ],
+    "An Improved Policy Iteration Algorithm for Partially Observable MDPs": [
+        "https://proceedings.neurips.cc/paper/1997/file/c930eecd01935feef55942cc445f708f-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/c930eecd01935feef55942cc445f708f-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/c930eecd01935feef55942cc445f708f-Paper.pdf"
+    ],
+    "Adaptation in Speech Motor Control": [
+        "https://proceedings.neurips.cc/paper/1997/file/2dffbc474aa176b6dc957938c15d0c8b-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/2dffbc474aa176b6dc957938c15d0c8b-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/2dffbc474aa176b6dc957938c15d0c8b-Paper.pdf"
+    ],
+    "A Bifurcation Theory Approach to the Programming of Periodic Attractors in Network Models of Olfactory Cortex": [
+        "https://proceedings.neurips.cc/paper/1988/file/2b24d495052a8ce66358eb576b8912c8-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/2b24d495052a8ce66358eb576b8912c8-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/2b24d495052a8ce66358eb576b8912c8-Paper.pdf"
+    ],
+    "A Non-Parametric Multi-Scale Statistical Model for Natural Images": [
+        "https://proceedings.neurips.cc/paper/1997/file/c5cc17e395d3049b03e0f1ccebb02b4d-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/c5cc17e395d3049b03e0f1ccebb02b4d-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/c5cc17e395d3049b03e0f1ccebb02b4d-Paper.pdf"
+    ],
+    "Radial Basis Functions: A Bayesian Treatment": [
+        "https://proceedings.neurips.cc/paper/1997/file/6786f3c62fbf9021694f6e51cc07fe3c-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/6786f3c62fbf9021694f6e51cc07fe3c-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/6786f3c62fbf9021694f6e51cc07fe3c-Paper.pdf"
+    ],
+    "Asymptotic Theory for Regularization: One-Dimensional Linear Case": [
+        "https://proceedings.neurips.cc/paper/1997/file/536a76f94cf7535158f66cfbd4b113b6-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/536a76f94cf7535158f66cfbd4b113b6-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/536a76f94cf7535158f66cfbd4b113b6-Paper.pdf"
+    ],
+    "Graph Matching with Hierarchical Discrete Relaxation": [
+        "https://proceedings.neurips.cc/paper/1997/file/3bbfdde8842a5c44a0323518eec97cbe-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/3bbfdde8842a5c44a0323518eec97cbe-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/3bbfdde8842a5c44a0323518eec97cbe-Paper.pdf"
+    ],
+    "A General Purpose Image Processing Chip: Orientation Detection": [
+        "https://proceedings.neurips.cc/paper/1997/file/0a1bf96b7165e962e90cb14648c9462d-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/0a1bf96b7165e962e90cb14648c9462d-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/0a1bf96b7165e962e90cb14648c9462d-Paper.pdf"
+    ],
+    "On the Separation of Signals from Neighboring Cells in Tetrode Recordings": [
+        "https://proceedings.neurips.cc/paper/1997/file/5e76bef6e019b2541ff53db39f407a98-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/5e76bef6e019b2541ff53db39f407a98-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/5e76bef6e019b2541ff53db39f407a98-Paper.pdf"
+    ],
+    "Prior Knowledge in Support Vector Kernels": [
+        "https://proceedings.neurips.cc/paper/1997/file/01d8bae291b1e4724443375634ccfa0e-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/01d8bae291b1e4724443375634ccfa0e-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/01d8bae291b1e4724443375634ccfa0e-Paper.pdf"
+    ],
+    "Receptive Field Formation in Natural Scene Environments: Comparison of Single Cell Learning Rules": [
+        "https://proceedings.neurips.cc/paper/1997/file/4dcae38ee11d3a6606cc6cd636a3628b-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/4dcae38ee11d3a6606cc6cd636a3628b-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/4dcae38ee11d3a6606cc6cd636a3628b-Paper.pdf"
+    ],
+    "Intrusion Detection with Neural Networks": [
+        "https://proceedings.neurips.cc/paper/1997/file/1abb1e1ea5f481b589da52303b091cbb-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/1abb1e1ea5f481b589da52303b091cbb-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/1abb1e1ea5f481b589da52303b091cbb-Paper.pdf"
+    ],
+    "Performance of Synthetic Neural Network Classification of Noisy Radar Signals": [
+        "https://proceedings.neurips.cc/paper/1988/file/a5e00132373a7031000fd987a3c9f87b-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1988/file/a5e00132373a7031000fd987a3c9f87b-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1988/file/a5e00132373a7031000fd987a3c9f87b-Paper.pdf"
+    ],
+    "Self-similarity Properties of Natural Images": [
+        "https://proceedings.neurips.cc/paper/1997/file/07042ac7d03d3b9911a00da43ce0079a-Bibtex.bib",
+        "https://proceedings.neurips.cc/paper/1997/file/07042ac7d03d3b9911a00da43ce0079a-Metadata.json",
+        "https://proceedings.neurips.cc/paper/1997/file/07042ac7d03d3b9911a00da43ce0079a-Paper.pdf"
+    ]
+}

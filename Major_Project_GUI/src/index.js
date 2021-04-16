@@ -1,11 +1,30 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './Components/App.js'
-import {Provider} from 'react-redux'
+import {Provider} from 'react-redux';
+import { Route, BrowserRouter as Router, Switch } from "react-router-dom";
 import {store} from './Redux/Store/store';
+import MainContent from './Components/MainContent/mainContent';
+import Header from './Components/header';
+import Details from './Components/Details/details';
+import SearchContent from './Components/SearchContent/searchContent';
+import ErrorPage from './Components/ErrorComponent/errorPage';
+const routing = (
+  <Router>
+      <div>
+          <Header />
+          <Switch>
+              <Route path="/" component={MainContent} exact/>
+              <Route path="/search" component={SearchContent}/>
+              <Route path="/details" component={Details} />
+              <Route path="*" component={ErrorPage}/>
+          </Switch>
+      </div>
+  </Router>
+);
+
 ReactDOM.render(
   <Provider store={store}>
-    <App/>
+      {routing}
   </Provider>,
   document.getElementById('root')
 );
