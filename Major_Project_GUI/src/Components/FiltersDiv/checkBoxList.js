@@ -35,7 +35,6 @@ class CheckboxList extends React.Component {
 		promise.then((titles) => {
 			var set = new Set(titles);
 			titles = Array.from(set);
-			console.log(titles);
 			store.dispatch(documentActions.setDocumentsTitles(titles));
 			
 		})

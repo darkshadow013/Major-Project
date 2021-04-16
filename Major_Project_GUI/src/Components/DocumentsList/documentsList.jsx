@@ -16,12 +16,10 @@ class DocumentsList extends React.Component {
     }
     state = {
         documentsData: documentsData,
-        documentsTitlesAll: [],
         documentsTitles: [],
     }
     async componentDidMount() {
         console.log("Document List ");
-        await this.setState({documentsTitlesAll: this.props.documentsTitlesAll});
         await this.setState({documentsTitles: this.props.documentsTitles});
     }
     comp
