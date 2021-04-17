@@ -12,7 +12,7 @@ class Header extends Component {
 					<Nav>
 						<Nav.Link href="/">Home</Nav.Link>
 						<Nav.Link href="https://github.com/darkshadow013/Major-Project">Code</Nav.Link>
-						<Nav.Link href="/details">Details</Nav.Link>
+						<Nav.Link href="/details.html">Details</Nav.Link>
 					</Nav>
 				</Navbar.Collapse>
 			</Navbar>
