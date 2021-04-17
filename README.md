@@ -26,7 +26,7 @@ The approach used in this project can be divided into several steps :-
  5. Machine Learning
  
  ## _How to view UI_
-Visit [DocfilterMP](https://docfltermp.web.app) to view the prototype for this project.
+Visit [DocfilterMP](https://docfiltermp.web.app/) to view the prototype for this project.
 
 **Or**
 ```sh
