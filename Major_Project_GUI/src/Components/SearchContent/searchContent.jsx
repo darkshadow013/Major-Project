@@ -22,7 +22,6 @@ class SearchContent extends Component {
 		documentsData: documentsData,
 		documentsTitles: [],
 		keywordsList: [],
-		everythingDone: 1,
 		showError: 0,
 	}
 	async componentDidMount() {
@@ -45,7 +44,7 @@ class SearchContent extends Component {
 				keys = []
 				for (const key in documentsData) {
 					if (key.toLowerCase().includes(query.toLowerCase())) {
-						keys = [...keys, key]
+						keys = keys.concat(key);
 					}
 				}
 				await this.setState({ documentsTitles: keys });
@@ -65,7 +64,6 @@ class SearchContent extends Component {
 		}).then(async () => {
 			await this.setState({ keywordsList: keywordsList });
 			await this.props.setKeywordsList(keywordsList);
-			await this.setState({ everythingDone: 1 });
 		})
 	}
 	handleSearch(e) {
@@ -74,8 +72,8 @@ class SearchContent extends Component {
 		if(val.length === 0) {
 			this.setState({showError: 1});
 		} else {
-		localStorage.setItem("searchQuery", val);
-		window.location.reload();
+			localStorage.setItem("searchQuery", val);
+			window.location.reload();
 		}
 	}
 	handleKeyDown(e) {

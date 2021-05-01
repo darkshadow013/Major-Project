@@ -8,17 +8,17 @@ class MainContent extends Component {
 		this.handleSearch = this.handleSearch.bind(this);
 		this.handleKeyDown = this.handleKeyDown.bind(this);
 	}
-state = {
-	showError: 0,
-}
+	state = {
+		showError: 0,
+	}
 	handleSearch (e){
 		const val = document.getElementById("searchBoxId").value;
 		this.setState({showError: 0});
 		if(val.length === 0) {
 			this.setState({showError: 1});
 		} else {
-		localStorage.setItem("searchQuery", val);
-		this.props.history.push( {pathname: "/search"});
+			localStorage.setItem("searchQuery", val);
+			this.props.history.push( {pathname: "/search"});
 		}
 	}
 	handleKeyDown(e) {
