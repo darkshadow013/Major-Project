@@ -8,7 +8,7 @@ import store from '../../Redux/Store/store';
 import * as documentActions from '../../Redux/Action/documentActions';
 import { Button } from 'react-bootstrap';
 import keywordToTitlesMap from '../../JSON_Data/keywordToTitlesMap.json';
-
+import { ListViewComponent } from '@syncfusion/ej2-react-lists';
 class CheckboxList extends React.Component {
 	constructor(props) {
 		super(props);
