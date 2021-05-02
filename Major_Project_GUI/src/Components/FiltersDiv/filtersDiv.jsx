@@ -10,7 +10,7 @@ class FiltersDiv extends React.Component {
 			<div style={{display: "flex", flexDirection: "column"}}>
 				<div style={{textAlign: "center", fontWeight: "bolder", fontSize: "larger"}}>Keywords Filtering</div>
 				<div style={{display: "flex", flexDirection: "column", marginTop: "20px", maxHeight: "500px", overflowY: "auto"}}>
-					<CheckboxList keywordsList= {this.props.keywordsList}/>
+					<CheckboxList documentsTitles={this.props.documentsTitles} keywordsList= {this.props.keywordsList}/>
 				</div>
 			</div>
 		);

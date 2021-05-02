@@ -28,7 +28,7 @@ class SearchContent extends Component {
 
 		var keys = [];
 		var keywordsList = [];
-
+		var keywordsDict = {};
 		let promise = new Promise(function (resolve, reject) {
 			for (const key in documentsData) {
 				keys = keys.concat(key)
@@ -51,16 +51,18 @@ class SearchContent extends Component {
 				await this.props.setDocumentsTitles(keys);
 			}
 		}).then(async () => {
-
 			const documentsTitles = keys;
 			documentsTitles.map((title) => {
 				titleToKeywordsData[title].map((keyword) => {
-					keywordsList = keywordsList.concat(keyword);
+					if (keyword in keywordsDict) {
+						keywordsDict[keyword] = keywordsDict[keyword] + 1;
+					} else {
+						keywordsDict[keyword] = 1;
+					}
 				})
 			});
-			var set = new Set(keywordsList);
-			keywordsList = Array.from(set);
-
+		}).then(async () => {
+			for (const key in keywordsDict) keywordsList.push({ name: key + "(" + keywordsDict[key] + ")", count: keywordsDict[key].toString() });
 		}).then(async () => {
 			await this.setState({ keywordsList: keywordsList });
 			await this.props.setKeywordsList(keywordsList);
@@ -68,9 +70,9 @@ class SearchContent extends Component {
 	}
 	handleSearch(e) {
 		const val = document.getElementById("searchBoxId").value;
-		this.setState({showError: 0});
-		if(val.length === 0) {
-			this.setState({showError: 1});
+		this.setState({ showError: 0 });
+		if (val.length === 0) {
+			this.setState({ showError: 1 });
 		} else {
 			localStorage.setItem("searchQuery", val);
 			window.location.reload();
@@ -84,14 +86,30 @@ class SearchContent extends Component {
 
 	render() {
 		const searchQuery = localStorage.getItem("searchQuery");
-		const errorDiv = <div style={{width: "100%", fontSize: "80%", color: "#dc3545"}}>
+		const errorDiv = <div style={{ width: "100%", fontSize: "80%", color: "#dc3545" }}>
 			Please enter something
 		</div>;
-		const errorBox = (this.state.showError === 1) ? errorDiv: null;
+		const errorBox = (this.state.showError === 1) ? errorDiv : null;
+		const noDocumentsDiv = <section className="jumbotron text-center" style={{background: "white"}}>
+		<div className="container">
+			<p className="lead text-muted">No Documents found.</p>
+		</div>
+	</section>;
+		const documentsDiv = <div style={{ padding: "20px", display: "flex", justifyContent: "center" }}>
+			<div style={{ width: "300px" }}>
+				<FiltersDiv documentsTitles={this.state.documentsTitles}
+					keywordsList={this.state.keywordsList} />
+			</div>
+			<Divider orientation="vertical" flexItem />
+			<div style={{ width: "700px" }}>
+				<DocumentsList documentsTitles={store.getState().documentReducer.documentsTitles} />
+			</div>
+		</div>;
+		const mainDocumentsListBox = (this.state.documentsTitles.length === 0) ? noDocumentsDiv : documentsDiv;
 		return (
 			<>
 				<div style={{ maxWidth: "650px", padding: "15px", margin: "auto", marginTop: "40px" }}>
-					<Form.Label><b>Showing Results for :-</b> {searchQuery}</Form.Label>
+					<Form.Label><b style={{fontWeight: "500"}}>Showing Results for :-</b> {searchQuery}</Form.Label>
 					<Form.Group style={{ display: "flex", marginBottom: "0.25rem" }}>
 						<Form.Control required id="searchBoxId" type="text" placeholder="Search Document Here..." onKeyDown={this.handleKeyDown} />
 						<Button variant="light" onClick={this.handleSearch}><SearchIcon /></Button>
@@ -99,16 +117,7 @@ class SearchContent extends Component {
 					{errorBox}
 				</div>
 				<Divider variant="middle" />
-				<div style={{ padding: "20px", display: "flex", justifyContent: "center" }}>
-					<div style={{ width: "300px" }}>
-						<FiltersDiv documentsTitles={this.state.documentsTitles}
-							keywordsList={this.state.keywordsList} />
-					</div>
-					<Divider orientation="vertical" flexItem />
-					<div style={{ width: "700px" }}>
-						<DocumentsList documentsTitles={store.getState().documentReducer.documentsTitles} />
-					</div>
-				</div>
+				{mainDocumentsListBox}
 			</>
 		);
 	}
