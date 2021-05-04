@@ -1,5 +1,4 @@
 import React from 'react';
-import './style.css';
 import store from '../../Redux/Store/store';
 import * as documentActions from '../../Redux/Action/documentActions';
 import { Button } from 'react-bootstrap';
@@ -10,7 +9,7 @@ class CheckboxList extends React.Component {
 	constructor(props) {
 		super(props);
 		this.listobj = null;
-		this.fields = { text: "name"};
+		this.fields = { text: "name" };
 		this.initialTitles = props.documentsTitles;
 		this.handleClick = this.handleClick.bind(this);
 	}
@@ -30,9 +29,9 @@ class CheckboxList extends React.Component {
 				console.log("Promise");
 				for (const index in checked) {
 					str = checked[index].name;
-					keyword = str.substring(0,str.length - checked[index].count.length - 2);
+					keyword = str.substring(0, str.length - checked[index].count.length - 2);
 					keywordToTitlesMap[keyword].map((title) => {
-						if(initialTitles.includes(title)) {
+						if (initialTitles.includes(title)) {
 							titles.push(title);
 						}
 					});
@@ -70,31 +69,3 @@ class CheckboxList extends React.Component {
 }
 
 export default CheckboxList;
-
-
-/*
-
-
-<List style={{ width: "100%", maxWidth: "350px", backgroundColor: "#fff" }}>
-					{keywordsList.map((value, idx) => {
-						const labelId = `checkbox-list-label-${idx}`;
-						return (
-							<ListItem key={idx} role={undefined} dense button onClick={this.handleToggle}>
-								<ListItemIcon>
-									<Checkbox
-										edge="start"
-										checked={this.state.checked.indexOf(value) !== -1}
-										tabIndex={-1}
-										disableRipple
-										inputProps={{ 'aria-labelledby': labelId }}
-										value={value}
-									/>
-								</ListItemIcon>
-								<ListItemText id={labelId} primary={value} />
-							</ListItem>
-						);
-					})}
-				</List>
-
-
-*/

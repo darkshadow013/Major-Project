@@ -13,26 +13,43 @@ class DocumentsList extends React.Component {
         store.subscribe(() => {
             this.setState({ documentsTitles: store.getState().documentReducer.documentsTitles });
         })
+        this.handleClick = this.handleClick.bind(this);
     }
     state = {
         documentsData: documentsData,
         documentsTitles: [],
+        showOverlappingDiv: false,
+    }
+    handleClick(e) {
+        this.setState({ showOverlappingDiv: !this.state.showOverlappingDiv }, () => {
+            if (this.props.onChange) {
+                this.props.onChange(this.state.showOverlappingDiv);
+            }
+        });
     }
     async componentDidMount() {
         console.log("Document List ");
         await this.setState({ documentsTitles: this.props.documentsTitles });
     }
     render() {
+        const text = (this.state.showOverlappingDiv === true) ? "Hide Overlapping" : "View Overlapping";
         return (
             <div style={{ display: "flex", flexDirection: "column", marginLeft: "20px" }}>
-                <div style={{ textAlign: "center", fontWeight: "bolder", fontSize: "larger" }}>Documents List</div>
-                <div style={{
-                    fontWeight: "600",
-                    fontFamily: "Helvetica Neue,Helvetica,Arial,sans-serif",
-                    lineHeight: "1.1",
-                    color: "#767676"
-                }}
-                >Showing Results :- {this.props.documentsTitles.length}</div>
+                <div style={{ textAlign: "center", fontWeight: "500", fontSize: "larger" }}>Documents List</div>
+                <div style={{ display: "flex", flexDirection: "row", justifyContent: "space-between" }}>
+                    <div style={{
+                        fontWeight: "600",
+                        fontFamily: "Helvetica Neue,Helvetica,Arial,sans-serif",
+                        lineHeight: "1.1",
+                        color: "#767676"
+                    }}
+                    >Showing Results :- {this.props.documentsTitles.length}</div>
+                    <div style={{ fontSize: "small" }}>
+                        <a href="#" onClick={this.handleClick}>
+                            {text}
+                        </a>
+                    </div>
+                </div>
                 <div style={{ display: "flex", flexDirection: "column", marginTop: "20px", maxHeight: "500px", overflowY: "auto" }}>
                     {this.state.documentsTitles.map((title, idx) => {
                         return (

@@ -11,18 +11,21 @@ import * as documentActions from "../../Redux/Action/documentActions";
 import store from "../../Redux/Store/store";
 import titleToKeywordsData from '../../JSON_Data/titleToKeywordsMap.json';
 import documentsData from '../../JSON_Data/documentsData.json';
+import TwoDocumentOverlap from '../Overlap/twoDocumentOverlap';
 
 class SearchContent extends Component {
 	constructor(props) {
 		super(props);
 		this.handleSearch = this.handleSearch.bind(this);
 		this.handleKeyDown = this.handleKeyDown.bind(this);
+		this.ChildElement = React.createRef();
 	}
 	state = {
 		documentsData: documentsData,
 		documentsTitles: [],
 		keywordsList: [],
 		showError: 0,
+		showOverlay: false,
 	}
 	async componentDidMount() {
 
@@ -90,11 +93,11 @@ class SearchContent extends Component {
 			Please enter something
 		</div>;
 		const errorBox = (this.state.showError === 1) ? errorDiv : null;
-		const noDocumentsDiv = <section className="jumbotron text-center" style={{background: "white"}}>
-		<div className="container">
-			<p className="lead text-muted">No Documents found.</p>
-		</div>
-	</section>;
+		const noDocumentsDiv = <section className="jumbotron text-center" style={{ background: "white" }}>
+			<div className="container">
+				<p className="lead text-muted">No Documents found.</p>
+			</div>
+		</section>;
 		const documentsDiv = <div style={{ padding: "20px", display: "flex", justifyContent: "center" }}>
 			<div style={{ width: "300px" }}>
 				<FiltersDiv documentsTitles={this.state.documentsTitles}
@@ -102,20 +105,28 @@ class SearchContent extends Component {
 			</div>
 			<Divider orientation="vertical" flexItem />
 			<div style={{ width: "700px" }}>
-				<DocumentsList documentsTitles={store.getState().documentReducer.documentsTitles} />
+				<DocumentsList onChange={(data) => {
+					this.setState({ showOverlay: data })
+				}} documentsTitles={store.getState().documentReducer.documentsTitles} />
 			</div>
 		</div>;
 		const mainDocumentsListBox = (this.state.documentsTitles.length === 0) ? noDocumentsDiv : documentsDiv;
+		const overlayDiv = <>
+			<Divider variant="middle" />
+			<TwoDocumentOverlap documentsTitles={this.state.documentsTitles} />
+		</>
+		const showOverlayDiv = (this.state.showOverlay === true) ? overlayDiv : null;
 		return (
 			<>
 				<div style={{ maxWidth: "650px", padding: "15px", margin: "auto", marginTop: "40px" }}>
-					<Form.Label><b style={{fontWeight: "500"}}>Showing Results for :-</b> {searchQuery}</Form.Label>
+					<Form.Label><b style={{ fontWeight: "500" }}>Showing Results for :-</b> {searchQuery}</Form.Label>
 					<Form.Group style={{ display: "flex", marginBottom: "0.25rem" }}>
 						<Form.Control required id="searchBoxId" type="text" placeholder="Search Document Here..." onKeyDown={this.handleKeyDown} />
 						<Button variant="light" onClick={this.handleSearch}><SearchIcon /></Button>
 					</Form.Group>
 					{errorBox}
 				</div>
+				{showOverlayDiv}
 				<Divider variant="middle" />
 				{mainDocumentsListBox}
 			</>

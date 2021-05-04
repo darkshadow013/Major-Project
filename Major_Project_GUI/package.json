@@ -5,6 +5,8 @@
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@material-ui/icons": "^4.11.2",
+    "@syncfusion/ej2-react-dropdowns": "^19.1.58",
+    "@syncfusion/ej2-react-heatmap": "^19.1.57",
     "@syncfusion/ej2-react-lists": "^19.1.56",
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
